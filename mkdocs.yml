@@ -1,0 +1,131 @@
+site_name: duykhanh471
+site_description: Một trang học tập cá nhân của duykhanh471
+site_author: duykhanh471  
+site_url: https://duy103zxc.github.io
+repo_name: Chỉnh sửa các thứ
+repo_url: https://github.com/duy103zxc/duy103zxc.github.io
+
+nav:
+  - 'Trang chủ': 'index.md'
+  - 'Blog':
+    - 'Bài viết không đầu tiên': 'bai-dang/dau-tien.md'
+  - 'Học điều mới':
+    - 'Đọc sách':
+      - 'Thu Giang - Nguyễn Duy Cần': 'hoc-hoi/hoc-gia/thu-giang.md'
+      - 'Nguyễn Hiến Lê': 'hoc-hoi/hoc-gia/nguyen-hien-le.md'
+    - 'Bài viết':
+      - 'Exit Modernity': 'hoc-hoi/bai-viet/chay-tron-hien-dai.md'
+  - 'Lập trình':
+    - 'HTML/CSS': 
+      - 'HTML': 'lap-trinh/html-css/html.md'
+      - 'CSS': 'lap-trinh/html-css/css.md'
+    - 'JS': 
+      - 'lap-trinh/js/co-ban.md'
+      - 'lap-trinh/js/array.md'
+      - 'lap-trinh/js/ngay-gio.md'
+      - 'lap-trinh/js/string.md'
+      - 'lap-trinh/js/object.md'
+    - 'Rust':
+      - 'lap-trinh/rust/thuat-toan.md'
+    - 'Bash':
+      - 'lap-trinh/bash/tong-hop.md'
+    - 'Regex':
+      - 'lap-trinh/regex/tong-hop.md'
+  - 'Khoa học máy tính':
+    - 'Lập trình':
+      - 'khoa-hoc-may-tinh/1-lap-trinh/01_functional_programming.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/02_higher-order_procedures_&_recursion.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/03_data_abstraction.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/04_hierarchical_data.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/05_symbolic_data.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/06_representations_for_abstract_data.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/07_generic_operations.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/08_assignment_&_local_state.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/09_the_environment_model_of_evaluation.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/10_mutable_data.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/11_concurrency.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/12_streams.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/13_the_metacircular_evaluator⁠.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/14_lazy_evaluation.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/15_nondeterministic_evaluator.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/16_logic_programming.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/s1_oop.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/s2_client-server-programming.md'
+      - 'khoa-hoc-may-tinh/1-lap-trinh/s3_mapreduce.md'
+    - 'Kiến trúc máy tính':
+      - 'khoa-hoc-may-tinh/2-kien-truc-may-tinh/1-bits-bytes.md'
+    - 'Cấu trúc dữ liệu & Giải thuật':
+      - 'khoa-hoc-may-tinh/3-ctdl-gt/1-on-tap-co-ban.md'
+    - 'Toán':
+      - 'khoa-hoc-may-tinh/4-toan/1-bat-dau.md'
+    - 'Hệ điều hành':
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/c_programming.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/debugging.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s1.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s2.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s3.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s31.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s3a.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s3b.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s4.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s5.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s6.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s7.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s8.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s9.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s10.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s11.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s12.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s13.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s14.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s15.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s16.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s17.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s18.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s19.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s20.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s21.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s23.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s24.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s25a.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s25.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s26.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s27.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s28.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s29.md'
+      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s30.md'
+  - 'About': 'about.md'
+
+
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  name: material
+
+plugins:
+  - search
+  - open-in-new-tab
+
+extra:
+  generator: false
