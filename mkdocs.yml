@@ -25,8 +25,85 @@ nav:
       - 'lap-trinh/js/ngay-gio.md'
       - 'lap-trinh/js/string.md'
       - 'lap-trinh/js/object.md'
+    - 'Java':
+      - 'Trang chủ khóa học': 'lap-trinh/java/index.md'
+      - 'Giới thiệu Series Java căn bản.': 'lap-trinh/java/jav0-gioi-thieu-series-java-can-ban.md'
+      - 'Giới thiệu Java, JVM và Hellooo world': 'lap-trinh/java/jav1-gioi-thieu-java-jvm-va-hellooo-world.md'
+      - 'Biến, phạm vi, kiểu dữ liệu, toán tử trong Java': 'lap-trinh/java/jav2-bien-phm-vi-kiu-d-liu-ton-t-trong-java.md'
+      - 'Hàm và câu lệnh điều kiện': 'lap-trinh/java/jav3-ham-va-cau-lenh-ieu-kien.md'
+      - 'Nhập xuất dữ liệu trong Java': 'lap-trinh/java/jav4-nhap-xuat-du-lieu-trong-java.md'
+      - 'Vì sao nên sử dụng StringBuffer': 'lap-trinh/java/vi-sao-nen-su-dung-stringbuffer.md'
+      - 'Hướng dẫn Java Reflection': 'lap-trinh/java/huong-dan-java-reflection.md'
+      - 'Hướng dẫn tự tạo một Annotations': 'lap-trinh/java/huong-dan-tu-tao-mot-annotations.md'
+      - 'Functional Interfaces & Lambda Expressions cực dễ hiểu': 'lap-trinh/java/java-8functional-interfaces-lambda-expressions-cuc-de-hieu.md'
+      - 'Hướng dẫn Stream API': 'lap-trinh/java/java-8huong-dan-stream-api.md'
+      - 'Khái niệm ThreadPool và Executor trong Java': 'lap-trinh/java/khai-niem-threadpool-va-executor-trong-java.md'
+      - 'ThreadPoolExecutor và nguyên tắc quản lý pool size': 'lap-trinh/java/threadpoolexecutor-va-nguyen-tac-quan-ly-pool-size.md'
+      - 'Giới thiệu Reactive Programming với Reactor': 'lap-trinh/java/gioi-thieu-reactive-programming-voi-reactor.md'
+      - 'Giới thiệu Reactor Core': 'lap-trinh/java/gioi-thieu-reactor-core.md'
+    - 'Spring Boot':
+      - 'Trang chủ khóa học': 'lap-trinh/spring-boot/index.md'
+      - 'Core':
+        - 'Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled': 'lap-trinh/spring-boot/core1.md'
+        - 'Giải thích Dependency Injection (DI) và IoC bằng Ngọc Trinh': 'lap-trinh/spring-boot/core2.md'
+      - 'Spring Boot':
+        - 'Series làm chủ Spring Boot - Zero to Hero': 'lap-trinh/spring-boot/sb0.md'
+        - 'Hướng dẫn @Component và @Autowired': 'lap-trinh/spring-boot/sb1.md'
+        - '@Autowired - @Primary - @Qualifier': 'lap-trinh/spring-boot/sb2.md'
+        - 'Spring Bean Life Cycle + @PostConstruct và @PreDestroy': 'lap-trinh/spring-boot/sb3.md'
+        - '@Component vs @Service vs @Repository': 'lap-trinh/spring-boot/sb4.md'
+        - 'Component Scan là gì?': 'lap-trinh/spring-boot/sb5.md'
+        - '@Configuration và @Bean': 'lap-trinh/spring-boot/sb6.md'
+        - 'Spring Boot Application Config và @Value': 'lap-trinh/spring-boot/sb7.md'
+        - 'Tạo Web Helloworld với @Controller + Thymeleaf': 'lap-trinh/spring-boot/sb8.md'
+        - 'Giải thích cách Thymeleaf vận hành + Expression + Demo Full': 'lap-trinh/spring-boot/sb9.md'
+        - '@RequestMapping + @PostMapping + @ModelAttribute + @RequestParam + Web To-Do với Thymeleaf': 'lap-trinh/spring-boot/sb10.md'
+        - 'Hướng dẫn Spring Boot JPA + MySQL': 'lap-trinh/spring-boot/sb11.md'
+        - 'Spring JPA Method + @Query': 'lap-trinh/spring-boot/sb12.md'
+        - 'Chi tiết Spring Boot + Thymeleaf + MySQL + i18n + Web Demo': 'lap-trinh/spring-boot/sb13.md'
+        - 'Restful API + @RestController + @PathVariable + @RequestBody': 'lap-trinh/spring-boot/sb14.md'
+        - 'Exception Handling @ExceptionHandler + @RestControllerAdvice / @ControllerAdvice + @ResponseStatus': 'lap-trinh/spring-boot/sb15.md'
+        - 'Hướng dẫn sử dụng @ConfigurationPropertie': 'lap-trinh/spring-boot/sb16.md'
+        - 'Chạy nhiều môi trường với Spring Profile': 'lap-trinh/spring-boot/sb17.md'
+        - 'Hướng dẫn chi tiết Test Spring Boot': 'lap-trinh/spring-boot/sb18.md'
+        - 'Hướng dẫn chi tiết Test Spring Boot (Phần 2)': 'lap-trinh/spring-boot/sb19.md'
+        - 'Hướng dẫn toàn tập Mockito': 'lap-trinh/spring-boot/sb20.md'
+        - 'Hướng dẫn tạo Bean có điều kiện với @Conditional': 'lap-trinh/spring-boot/sb21.md'
+        - 'Hướng dẫn tự tạo custom @Conditional': 'lap-trinh/spring-boot/sb22.md'
+        - 'Xử lý sự kiện với @EventListener + @Async': 'lap-trinh/spring-boot/sb23.md'
+        - 'RESTful API Document Tạo với Spring Boot + Swagger': 'lap-trinh/spring-boot/sb24.md'
+        - 'RESTful API Document với Spring Boot + OpenApi 3.0': 'lap-trinh/spring-boot/sb25.md'
+      - 'Jpa':
+        - '「Jpa」Hibernate là gì?': 'lap-trinh/spring-boot/jpa1.md'
+        - '「Jpa」Hướng dẫn sử dụng Specification (Phần 1)': 'lap-trinh/spring-boot/jpa2.md'
+        - '「Jpa」Hướng dẫn sử dụng @OneToOne': 'lap-trinh/spring-boot/jpa3.md'
+        - '「Jpa」@OneToMany và @ManyToOne': 'lap-trinh/spring-boot/jpa4.md'
+        - '「Jpa」Hướng dẫn @ManyToMany': 'lap-trinh/spring-boot/jpa5.md'
+        - '「Jpa」Hướng dẫn Query phân trang bằng Pageable (Phần 1)': 'lap-trinh/spring-boot/jpa6.md'
+        - '「Jpa」Hướng dẫn sử dụng Criteria API trong Hibernate': 'lap-trinh/spring-boot/jpa7.md'
+        - '「Jpa」Hướng dẫn sử dụng Criteria API trong Hibernate (Phần 2)': 'lap-trinh/spring-boot/jpa8.md'
+        - '「Jpa」Hướng dẫn tự tạo Validator để kiểm tra Model & Entity': 'lap-trinh/spring-boot/jpa9.md'
+      - 'Spring Security':
+        - '「SS」Hướng dẫn Spring Security cơ bản, dễ hiểu': 'lap-trinh/spring-boot/ss1.md'
+        - '「SS」Hướng dẫn Spring Security + Jpa Hibernate': 'lap-trinh/spring-boot/ss2.md'
+        - '「SS」Hướng dẫn Spring Security + JWT (Json Web Token) + Hibernate': 'lap-trinh/spring-boot/ss3.md'
+      - 'Redis': 'lap-trinh/spring-boot/redis.md'
     - 'Rust':
       - 'lap-trinh/rust/thuat-toan.md'
+      - lap-trinh/rust/command-line.md
+      - lap-trinh/rust/he-thong.md
+      - lap-trinh/rust/internet.md
+      - 'Tệp':
+        - lap-trinh/rust/tep/epub.md
+        - lap-trinh/rust/tep/git.md
+        - lap-trinh/rust/tep/html.md
+        - lap-trinh/rust/tep/rss.md
+    - 'React':
+      - 'lap-trinh/react/bai-1.md'
+      - 'lap-trinh/react/bai-2.md'
+      - 'lap-trinh/react/bai-3.md'
+    - 'TypeScript':
+      - 'lap-trinh/ts/bai-1.md'
     - 'Bash':
       - 'lap-trinh/bash/tong-hop.md'
     - 'Regex':

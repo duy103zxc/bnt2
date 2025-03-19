@@ -1,0 +1,251 @@
+![Logo](https://web.archive.org/web/20230201195741im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
+
+Home](/web/20230201195741/https://loda.me/) [Khóa học](/web/20230201195741/https://loda.me/courses) [#dalog
+
+🥎
+
+# 「Java 8」Functional Interfaces & Lambda Expressions cực dễ hiểu
+
+Created
+
+Oct 28, 2021 8:32 AM
+
+Tags
+
+javamiddle
+
+Chapter
+
+- Giới thiệu
+- Functional Programming
+- Lambda Expressions
+- Functional Interface
+- @FunctionalInterface
+- default function & static funtion
+- Method reference
+- Lời kết
+
+### **Giới thiệu**
+
+Khái niệm `Functional Interfaces` được `Java` đưa ra cùng với phiên bản `Java 8`. về cơ bản, có thể hiểu:
+
+> Functional Interfaces là interface nhưng chỉ có một 1 abstract function duy nhất.
+
+Ví dụ:
+
+```java
+interface Runable{
+    public void run(); // Chỉ có duy nhất một abstract function.
+}
+```
+
+Dễ hiểu phải hem các bạn :3 Tuy nhiên, vì sao lại đưa ra khái niệm này và nó giúp ích gì cho `developer` như chúng ta.
+
+### **Functional Programming**
+
+Trước khi đi vào chi tiết, chúng ta cùng tìm hiểu khái niệm `Lập trình hướng hàm`.
+
+Cùng xem ví dụ dưới đây:
+
+```java
+public static void main(String[] args) {
+    // Mình muốn xử lý dữ liệu trước khi ỉn ra màn hình.
+    System.out.println(process("Hey Loda!!!"));
+}
+
+public static String process(String input){
+    // Cho tất cả viết hoa lên.
+    return input.toUpperCase();
+}
+
+// Output:
+HEY LODA!!!
+```
+
+Dễ quá phải hem bạn :)))
+
+Tuy nhiên bạn sẽ thấy cách làm này không `flexible`, vì các bạn chỉ có thể xử lý cho chữ thành `UPPER CASE`. Muốn làm gì đó khác, như `toLowerCase` chẳng hạn, mình sẽ phải viết một `function` mới.
+
+Chúng ta giải quyết cách cách này bằng `Anonymous function (Hàm ẩn danh)`
+
+Sửa code chút:
+
+```java
+public interface StringProcessor{
+    public String process(String input);
+}
+
+public static String getStr(String input, StringProcessor processor){
+    return processor.process(input);
+}
+
+public static void main(String[] args) {
+    // In ra chữ hoa
+    System.out.println(getStr("Hello Loda!", new StringProcessor() {
+        @Override
+        public String process(String input) {
+            return input.toUpperCase();
+        }
+    }));
+
+    // In ra chữ thường
+    System.out.println(getStr("Hey Loda!", new StringProcessor() {
+        @Override
+        public String process(String input) {
+            return input.toLowerCase();
+        }
+    }));
+}
+// Output:
+// HELLO LODA!
+// hey loda!
+```
+
+Đây chính là `Lập trình hướng hàm` các bạn ạ, mục đích của nó là chúng ta đưa `hành vi` vào `hàm`. Hay nói cách khác là đưa thêm các đoạn code vào hàm như là một parameter.
+
+> Lập trình hướng hàm là đưa hành vi vào hàm.
+
+Tuy nhiên có một nhược điểm trong khi áp dụng cách này đó là viết code rất dài 😭 Chỉ mỗi việc in ra màn hình cũng mất của chúng ta 6-7 dòng code.
+
+Đây là lúc mà `Lambda Expressions` ra đời.
+
+### **Lambda Expressions**
+
+Quay lại ví dụ ở trên, cùng phân tích:
+
+Chúng ta thấy là `StringProcessor` chỉ có duy nhất một `function process(xx)` (liên tưởng gì chưa các bạn :3). Nên mọi đoạn code đều sẽ giống hệt nhau ở việc `implement function` này.
+
+```java
+new StringProcessor() {
+    @Override
+    public String process(String input) {
+        // Do something here
+        // Chỉ khác nhau đoạn code ở giữa
+        return x;
+    }
+}
+```
+
+Thực ra cái chúng ta quan tâm là:
+
+- đầu vào `input` (`String`)
+- một hoặc nhiều thao tác xử lý `input`
+- cho tôi đầu ra là `output` (`String`)
+
+đúng chứ?
+
+Có cách nào để rút ngắn `code` hơn, nhưng vẫn không làm nhập nhằng ý nghĩa của `code`?
+
+`Java 8` thấu hiểu sự bất cập này và đưa ra khái niệm `Lambda Expression`:
+
+```java
+// (input) -> input.toUpperCase()
+// đầu vào -> đầu ra
+System.out.println(getStr("Hello Loda!", input -> input.toUpperCase()));
+```
+
+> Lambda Expression là một cách định nghĩa ngắn gọn khi implement một Functional Interface (interface chỉ có một function)
+
+Cấu trúc của một lambda như sau:
+
+```makefile
+parameter -> expression body
+```
+
+Trong đó:
+
+- `parameter` là những tham số đầu vào của hàm (một hoặc nhiều)
+- `expression body` là phần xử lý `parameter`, bạn cần trả ra đúng kiểu dữ liệu đã khai báo trong `Functional Interface`
+
+Nếu `code` bạn chỉ cần 1 thao tác, thì không cần `return` giống ví dụ ở trên. Còn nếu `code` yêu cầu xử lý nhiều, thì dạng đầy đủ của nó như sau:
+
+```makefile
+parameter -> {
+    expression body
+    [return] // (không trả về nếu là void)
+}
+```
+
+ví dụ:
+
+```java
+System.out.println(getStr("Hello Loda!", input -> {
+    String temp =  input + " Đừng quên like fanpage nhé!!!";
+    return temp.toLowerCase();
+}));
+```
+
+### **Functional Interface**
+
+Tới đây, bạn đã hiểu ý nghĩa của việc cho ra đời khái niệm `Functional Interface`, nó là một quy định chung phải có để có thể viết code dưới dạng biểu thức `Lambda`.
+
+Một số điều cần lưu ý với `Functional Interface` như sau:
+
+### **@FunctionalInterface**
+
+`Annotation` này chỉ để bổ sung, nó đánh dấu một `interface` là `Functional Interface`. Lúc này bạn khai báo 2 `abtract function` bên trong `interface` thì sẽ báo lỗi.
+
+```java
+@FunctionalInterface // Gắn cái này lên interface, nó đánh dấu interface chỉ được phép có 1 funtion thôi
+public interface StringProcessor{
+    public String process(String input);
+    public String preProcess(String input); // lỗi
+}
+```
+
+### **default function & static funtion**
+
+`Java 8` cải tiến cho phép `interface` được khai báo `code` bên trong nó, với điều kiện `code` phải nằm trong `default` hoặc `static`.
+
+`default` và `static` không phá vỡ quy luật của `@FunctionInterfaces`
+
+```java
+@FunctionalInterface // Gắn cái này lên interface, nó đánh dấu interface chỉ được phép có 1 funtion thôi
+public interface StringProcessor{
+    public String process(String input);
+
+    // Mọi class implement StringProcessor đều có thể gọi hàm này để sử dụng luôn
+    public default void printf(Object t){
+        System.out.println(t);
+    }
+
+    // Là hàm static, gọi từ class cũng được.         StringProcessor.concat(a,b)
+    public static String concat(String a, String b){
+        return a + b;
+    }
+}
+```
+
+### **Method reference**
+
+Phần này chỉ để bổ sung, không có nó, bạn vẫn có thể sử dụng `Lambda Expressions` bình thường. Nhưng với `Method reference`, code của bạn sẽ còn sạch sẽ hơn nữa.
+
+Ví dụ:
+
+```java
+System.out.println(getStr("Hello Loda!", input -> input.toUpperCase()));
+// Tương đương với việc viết như này:
+
+System.out.println(getStr("Hello Loda!", String::toUpperCase));
+```
+
+`Method reference` là cách viết ngắn gọn, sẽ bỏ qua luôn cả phần `parameter` vì bản thân tên hàm đã biết nó sẽ nhận vào gì và trả ra cái gì rồi. Việc còn lại để `Compiler` lo thôi kakaka.
+
+Có các cách để gọi `Method reference` như sau:
+
+`[Tên Class]::[Tên method]`: Giống với ví dụ ở trên `String::toUpperCase`.
+
+`[Tên Class]::new`: Tạo ra một đối tượng mới, từ tham số được truyền vào
+
+```java
+System.out.println(getStr("Hello Loda!", input -> new String(input));
+// Tương đương với việc viết như này:
+System.out.println(getStr("Hello Loda!", String::new));
+```
+
+### **Lời kết**
+
+Tới đây, bạn đã nắm trong tay những khái niệm được coi là mạnh mẽ nhất `Java 8` rồi :))) Cầm và quẩy trong tất cả các đoạn code sắp tới của mình nhé.
+
+Chúc các bạn thành công và nhớ like và chia sẻ cho bạn biết nhé, ahoho!
+
