@@ -1,18 +1,6 @@
 [SB3] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
 =============================================================
 
-The Wayback Machine - https://web.archive.org/web/20230602173744/https://loda.me/articles/sb3-spring-bean-life-cycle-postconstruct-va-predestroy
-
-![Logo](https://web.archive.org/web/20230602173744im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 15, 2021 3:36 PM
-
 - Giới thiệu
 - Cài đặt
 - @PostConstruct
@@ -26,10 +14,8 @@ Oct 15, 2021 3:36 PM
 
 Trong các bài trước, các bạn đã hiểu các khái niệm cơ bản về `Bean` và cách inject nó trong Spring Boot bằng `@Component` + `@Autowired`
 
-1. [📖\
-\SB1\] Hướng dẫn @Component và @Autowired
-2. [☎️\
-\SB2\] @Autowired - @Primary - @Qualifier
+1. [📖SB1] Hướng dẫn @Component và @Autowired
+2. [☎️SB2] @Autowired - @Primary - @Qualifier
 
 Hôm nay chúng ta sẽ tìm hiểu kỹ hơn về vòng đời của `Bean`.
 
@@ -210,10 +196,4 @@ Lần thứ hai là do **Spring Boot** chạy sau khi nó được gọi `Spr
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

@@ -1,18 +1,6 @@
 [SB4] @Component vs @Service vs @Repository
 ===========================================
 
-The Wayback Machine - https://web.archive.org/web/20230602194907/https://loda.me/articles/sb4-component-vs-service-vs-repository
-
-![Logo](https://web.archive.org/web/20230602194907im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 27, 2021 3:15 PM
-
 - Giới thiệu
 - Kiến trúc trong Spring Boot
 - @Controller vs @Service vs @Repository
@@ -25,12 +13,9 @@ Oct 27, 2021 3:15 PM
 
 Trong bài trước chúng ta đã tìm hiểu các khái niệm căn bản và cần thiết trong Spring Boot.
 
-1. [📖\
-\SB1\] Hướng dẫn @Component và @Autowired
-2. [☎️\
-\SB2\] @Autowired - @Primary - @Qualifier
-3. [🚤\
-\SB3\] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
+1. [📖SB1] Hướng dẫn @Component và @Autowired
+2. [☎️SB2] @Autowired - @Primary - @Qualifier
+3. [🚤SB3] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
 
 Trong bài này tôi sẽ giới thiệu với các bạn các khái niệm về `@Component`, `@Service`, `@Repository`.
 
@@ -273,10 +258,4 @@ Tuy nhiên từ góc độ thiết kế thì chúng ta cần phân rõ 3 Annotat
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

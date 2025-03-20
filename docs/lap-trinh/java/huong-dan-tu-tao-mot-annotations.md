@@ -1,25 +1,4 @@
-![Logo](https://web.archive.org/web/20230201190949im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-Home](/web/20230201190949/https://loda.me/) [Khóa học](/web/20230201190949/https://loda.me/courses) [#dalog
-
-🎴
-
 # Hướng dẫn tự tạo một Annotations
-
-Created
-
-Oct 28, 2021 8:30 AM
-
-Tags
-
-javamiddle
-
-Chapter
-
-- Giới thiệu
-- Khai báo Annotation
-- Khai báo phạm vi cho Annotation
-- Xử lý Annotation
 
 ### **Giới thiệu**
 

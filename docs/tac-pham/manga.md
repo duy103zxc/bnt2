@@ -1,0 +1,87 @@
+# Kho lưu trữ gợi ý Manga để đọc
+
+Các Manga chủ yếu liên quan đến nghề nghiệp, truyền cảm hứng hoặc nặng về tâm lý, không dễ thương lắm :D. Danh sách dưới đây sẽ không được sắp xếp:
+
+- Holyland
+- Bakuman: Họa sĩ
+- Hajime no Ippo: Đấm bốc
+- Eyeshield 21
+- Uchuu Kyoudai: Anh em vũ trụ
+- Baby Steps: Một thanh niên học giỏi dành toàn bộ đam mê vào Tennis, và nó hay vì ta được xem cả quá trình thanh niên này học nữa cơ.
+- [Kono Oto Tomare](https://myanimelist.net/manga/45143/Kono_Oto_Tomare) - 8.70 MAL
+- Saiunkoku Monogatari - Nữ chính chọn làm quan thay vì vào hậu cung để đưa đất nước phát triển phồn thịn
+- [Glass no Kamen](https://myanimelist.net/manga/1469/Glass_no_Kamen) Nữ chính trải qua thăng trầm để nâng cao khả năng diễn xuất.
+- [Kakukaku Shikajika]() - Hay "vẽ vời vẩn vơ"
+- Ousama-tachi no Viking 
+- Servant x Service
+- Beelzebub-jou no Oki ni Mesu mama
+- [E, Shanai System Subete Wan'ope shiteiru Watashi wo Kaiko desu ka?]() - Gánh cả công ty để rồi bị đuổi việc
+- History's Strongest Disciple Kenichi
+- Karate Shoukoushi Konihata Minoru
+- Dumbbell Nan Kilo Moteru? - Về tập thể hình (Cảnh báo Suggestive)
+-   Blue Period
+-   Arte
+-   Ascendance of a Bookworm
+-   Haikyuu
+-   My Dress Up Darling (Bỏ qua yếu tố tình cảm thì rất thích xem Gojou làm may vá)
+-   Smile Down the Runway (Nụ cười trên sàn diễn)
+-   The Greatest Estate Developer
+- Working!! (ワーキング!!): Một series hài hước kể về những nhân viên làm việc tại một nhà hàng gia đình. Mặc dù không tập trung vào một công việc "chuyên nghiệp" cụ thể, nó vẫn thể hiện nhiều khía cạnh của công việc và tương tác giữa các đồng nghiệp.
+- Servant x Service (サーバント×サービス): Bộ manga này theo chân những nhân viên mới tại một văn phòng chính phủ địa phương, mang đến cái nhìn hài hước về những công việc hành chính và tương tác với người dân.
+- [Shirobako](https://en.wikipedia.org/wiki/Shirobako)
+- Cells at Work! (はたらく細胞)
+- hunter-x-hunter
+- [Nodame Cantabile](https://myanimelist.net/manga/419/) is honestly a story about somebody who's very talented but doesn't have the desire to be "serious" with her talent and people who catch the potential of her (slowly) trying to push her to be 'serious' about it.
+- [Piano no Mori](https://myanimelist.net/manga/2895/)
+- [Kageki Shoujo](https://myanimelist.net/manga/86204/) (+[Sequel](https://myanimelist.net/manga/94251/))
+- [Subaru](https://myanimelist.net/manga/6888/)
+- [Wondance](https://myanimelist.net/manga/127120/)
+- [Ballroom e Youkoso](https://myanimelist.net/manga/48347/)
+- [Haikyuu](https://myanimelist.net/manga/35243/)
+- [Kakukaku Shikajika](https://myanimelist.net/manga/44307/)
+- [Munou no Hito](https://myanimelist.net/manga/19969/)
+- [Sen wa Boku wo Egaku](https://myanimelist.net/manga/120465/)
+- [Blue Period](https://myanimelist.net/manga/107931/)
+- [Chihayafuru](https://myanimelist.net/manga/13245/)
+- [Girl Crush](https://myanimelist.net/manga/142097/)
+- [Runway de Waratte](https://myanimelist.net/manga/108696/)
+- [Shouwa Genroku Rakugo Shinjuu](https://myanimelist.net/manga/26704/)
+- [Kanda Gokurachou Shokuninbanashi](https://myanimelist.net/manga/163845/)
+- [Green Green Greens](https://myanimelist.net/manga/164790/)
+- [Dogsred](https://myanimelist.net/manga/160828/)
+- [Teppu](https://myanimelist.net/manga/11366/)
+- [Arte](https://myanimelist.net/manga/75929/)
+- [Ashita no Joe](https://myanimelist.net/manga/1303/)
+- [Hajime no Ippo](https://myanimelist.net/manga/7/)
+- [Bless](https://myanimelist.net/manga/143969/)
+- [Beck](https://myanimelist.net/manga/145/)
+- [Hachimitsu to Clover](https://myanimelist.net/manga/1009/)
+- [Gin no Saji](https://myanimelist.net/manga/25096/)
+- [Medalist](https://myanimelist.net/manga/129621/)
+- [Blue Giant](https://myanimelist.net/manga/85719/)
+- [All Rounder Meguru](https://myanimelist.net/manga/14090/)
+- [Ao Ashi](https://myanimelist.net/manga/102256/)
+- [Kokou no Hito](https://myanimelist.net/manga/7375/)
+- [High Score Girl](https://myanimelist.net/manga/44501/)
+- [Bushido Sixteen](https://myanimelist.net/manga/15086/)
+- [Shiori Experience](https://myanimelist.net/manga/87397/)
+- [Kono Oto Tomare](https://myanimelist.net/manga/45143/)
+- [Akane-banashi](https://myanimelist.net/manga/144034/)
+- [ST&RS](https://myanimelist.net/manga/26570/)
+- [Yowamushi Pedal](https://myanimelist.net/manga/23627/)
+- [Shirobako](https://myanimelist.net/manga/80441/)
+- [Giant Killing](https://myanimelist.net/manga/13897/)
+- [Blue Lock](https://myanimelist.net/manga/114745/)
+- [Team Medical Dragon](https://myanimelist.net/manga/1297/)
+- [Slam Dunk](https://myanimelist.net/manga/51/) (and also [Real](https://myanimelist.net/manga/657/))
+- [Sangatsu no Lion](https://myanimelist.net/manga/1224/) is peak
+- [Hikaru no Go](https://myanimelist.net/manga/20/) is one of my favorite manga ever
+- [Otoyomegatari](https://myanimelist.net/manga/11514/)
+- [16bit Sensation]() - about an adult visual novel game company in the '90s. Despite the topic on hand, though, there's nothing explicit in the content as it's about how they develop the games and also about how the visual novel market was doing during that time.
+- [Kaijin Kaihatsubu no Kuroitsu-san]() - superhero fantasy stuff, but most of the content is how the monsters of an evil organization is done behind the scenes, so there's lots of office scenes where the characters do stuff and interact with their bosses and other departments of their organization.
+- [Koori Zokusei Danshi to Cool na Douryo Joshi]() - supernatural office rom-com
+- [New Game!]() - cute girls doing game development
+- [Shachiku-san wa Youjo Yuurei ni Iyasaretai]() - about an overworked office worker that's haunted by a cute ghost in the office.
+- [Servant x Service]() - public service office setting, but office rom-com
+- [Uramichi Oniisan]() - about the cast of a kids' TV show, but it shows plenty of behind-the-scenes stuff.
+- [Youjo Shachou]() - gag manga where the boss is a kindergartener

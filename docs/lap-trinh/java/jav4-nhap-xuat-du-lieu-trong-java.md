@@ -1,22 +1,6 @@
-![Logo](https://web.archive.org/web/20230201194910im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
+# [JAV4] Nhập xuất dữ liệu trong Java
 
-Home](/web/20230201194910/https://loda.me/) [Khóa học](/web/20230201194910/https://loda.me/courses) [#dalog
 
-🧿
-
-# \[JAV4\] Nhập xuất dữ liệu trong Java
-
-Created
-
-Oct 28, 2021 8:37 AM
-
-Tags
-
-javabasic
-
-Chapter
-
-4
 
 - Giới thiệu
 - Nhập xuất từ bàn phím
@@ -81,7 +65,7 @@ Bây giờ quay trở ngược lên trên 1 chút, ở câu lệnh:
 Scanner sc = new Scanner(System.in);
 ```
 
-các bạn sẽ thấy một khái niệm là `new`. cái này thì \[Bài #5\]\[link-bai5\] mình sẽ nói chi tiết, còn ở đây thì bạn hiểu nó được sử dụng để tạo ra 1 đối tượng `Scanner`. Mà từ đó các bạn mới nhận dữ liệu từ bàn phím được.
+các bạn sẽ thấy một khái niệm là `new`. cái này thì [Bài #5][link-bai5] mình sẽ nói chi tiết, còn ở đây thì bạn hiểu nó được sử dụng để tạo ra 1 đối tượng `Scanner`. Mà từ đó các bạn mới nhận dữ liệu từ bàn phím được.
 
 ### **Các phương thức nhập xuất**
 

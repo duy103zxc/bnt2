@@ -1,22 +1,6 @@
-![Logo](https://web.archive.org/web/20230201190006im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
+# [JAV3] Hàm và câu lệnh điều kiện
 
-Home](/web/20230201190006/https://loda.me/) [Khóa học](/web/20230201190006/https://loda.me/courses) [#dalog
 
-🌀
-
-# \[JAV3\] Hàm và câu lệnh điều kiện
-
-Created
-
-Oct 28, 2021 8:37 AM
-
-Tags
-
-javabasic
-
-Chapter
-
-3
 
 - Giới thiệu
 - #1 Câu lệnh rẽ nhánh
@@ -138,7 +122,7 @@ Ví dụ trên mình vừa cho các bạn thấy cách sử dụng `if else` v
 
 ### **Toán tử logic**
 
-Toán tử logic là những toán tử giúp chúng ta kết hợp nhiều \[điều kiện\] lại với nhau.
+Toán tử logic là những toán tử giúp chúng ta kết hợp nhiều [điều kiện] lại với nhau.
 
 Ví dụ mình nói: `"Nếu ab = 3 VÀ ac = 4 VÀ bc = 5 thì abc là tam giác vuông"`
 

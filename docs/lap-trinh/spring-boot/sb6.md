@@ -1,18 +1,6 @@
 [SB6] @Configuration và @Bean
 ==============================
 
-The Wayback Machine - https://web.archive.org/web/20230602193640/https://loda.me/articles/sb6-configuration-va-bean
-
-![Logo](https://web.archive.org/web/20230602193640im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 27, 2021 3:18 PM
-
 - Giới thiệu
 - Cài đặt
 - @Configuration và @Bean
@@ -27,16 +15,11 @@ Oct 27, 2021 3:18 PM
 
 Vậy là chúng ta đã đi qua các khái niệm cơ bản của **Spring Boot**
 
-1. [📖\
-\SB1\] Hướng dẫn @Component và @Autowired
-2. [☎️\
-\SB2\] @Autowired - @Primary - @Qualifier
-3. [🚤\
-\SB3\] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
-4. [🌟\
-\SB4\] @Component vs @Service vs @Repository
-5. [📃\
-\SB5\] Component Scan là gì?
+1. [📖SB1] Hướng dẫn @Component và @Autowired
+2. [☎️SB2] @Autowired - @Primary - @Qualifier
+3. [🚤SB3] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
+4. [🌟SB4] @Component vs @Service vs @Repository
+5. [📃SB5] Component Scan là gì?
 
 Trong bài hôm nay chúng ta sẽ tìm hiểu nốt 2 khái niệm `@Configuration` và `@Bean` để hoàn thiện phần căn bản của Spring Boot.
 
@@ -418,10 +401,4 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

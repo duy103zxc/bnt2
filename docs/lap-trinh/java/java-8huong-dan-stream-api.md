@@ -1,22 +1,6 @@
-![Logo](https://web.archive.org/web/20230201192659im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-Home](/web/20230201192659/https://loda.me/) [Khóa học](/web/20230201192659/https://loda.me/courses) [#dalog
-
-🏞️
-
 # 「Java 8」Hướng dẫn Stream API
 
-Created
 
-Oct 28, 2021 8:31 AM
-
-Tags
-
-javamiddle
-
-Chapter
-
-- Giới thiệu
 - Khái quát
 - Cách sử dụng
 - forEach

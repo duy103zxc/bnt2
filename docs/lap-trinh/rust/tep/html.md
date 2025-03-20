@@ -77,12 +77,12 @@ use regex::Regex;
 
 pub fn remove_square_brackets(text: String) -> String {
     let square_bracket_regex =
-        Regex::new(r"\[(?P<link>[a-zA-Z0-9\(\)\-\,[:space:]&=]+)\]").unwrap();
+        Regex::new(r"[(?P<link>[a-zA-Z0-9\(\)\-\,[:space:]&=]+)]").unwrap();
     square_bracket_regex.replace_all(&text, "$link").to_string()
 }
 
 pub fn remove_references(text: String) -> String {
-    let reference_regex = Regex::new(r"\[+([0-9]+)\]+").unwrap();
+    let reference_regex = Regex::new(r"[+([0-9]+)]+").unwrap();
     reference_regex.replace_all(&text, "").to_string()
 }
 

@@ -1,24 +1,4 @@
-[SB7] Spring Boot Application Config và @Value
-===============================================
-
-The Wayback Machine - https://web.archive.org/web/20230602193158/https://loda.me/articles/sb7-spring-boot-application-config-va-value
-
-![Logo](https://web.archive.org/web/20230602193158im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 27, 2021 3:20 PM
-
-- Giới thiệu
-- Cài đặt
-- application.properties
-- @Value
-- Ví dụ
-- Kết
+# [SB7] Spring Boot Application Config và @Value
 
 ### **Giới thiệu**
 
@@ -230,10 +210,4 @@ Bạn sẽ thấy là chương trình đã chạy trên port 8081. Và cấu hì
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

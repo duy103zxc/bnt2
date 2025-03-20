@@ -1,24 +1,7 @@
-![Logo](https://web.archive.org/web/20230201194646im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-Home](/web/20230201194646/https://loda.me/) [Khóa học](/web/20230201194646/https://loda.me/courses) [#dalog
-
-🪔
-
 # Vì sao nên sử dụng StringBuffer
 
-Created
 
-Oct 28, 2021 8:34 AM
-
-Tags
-
-javabasic
-
-Chapter
-
-1\. **Góc giải thích**
-
-hẳn những ai biết tới `Java` thì không còn xa lạ gì với việc ghép các `String` với nhau.
+Hẳn những ai biết tới `Java` thì không còn xa lạ gì với việc ghép các `String` với nhau.
 
 ```java
 String s = "Hello";

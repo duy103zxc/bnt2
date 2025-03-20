@@ -7,13 +7,11 @@ repo_url: https://github.com/duy103zxc/duy103zxc.github.io
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Blog':
-    - 'Bài viết không đầu tiên': 'bai-dang/dau-tien.md'
-  - 'Học điều mới':
-    - 'Đọc sách':
-      - 'Thu Giang - Nguyễn Duy Cần': 'hoc-hoi/hoc-gia/thu-giang.md'
+  - 'Học điều mới từ':
+    - 'Học giả':
+      - 'Thu Giang - Nguyễn Duy Cần': 'hoc-hoi/hoc-gia/thu-giang/index.md'
       - 'Nguyễn Hiến Lê': 'hoc-hoi/hoc-gia/nguyen-hien-le.md'
-    - 'Bài viết':
+    - 'Sách':
       - 'Exit Modernity': 'hoc-hoi/bai-viet/chay-tron-hien-dai.md'
   - 'Lập trình':
     - 'HTML/CSS': 
@@ -41,6 +39,7 @@ nav:
       - 'ThreadPoolExecutor và nguyên tắc quản lý pool size': 'lap-trinh/java/threadpoolexecutor-va-nguyen-tac-quan-ly-pool-size.md'
       - 'Giới thiệu Reactive Programming với Reactor': 'lap-trinh/java/gioi-thieu-reactive-programming-voi-reactor.md'
       - 'Giới thiệu Reactor Core': 'lap-trinh/java/gioi-thieu-reactor-core.md'
+      - 'Java 8: Optional': 'lap-trinh/java/java-8optional.md'
     - 'Spring Boot':
       - 'Trang chủ khóa học': 'lap-trinh/spring-boot/index.md'
       - 'Core':
@@ -171,6 +170,10 @@ nav:
       - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s28.md'
       - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s29.md'
       - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s30.md'
+  - 'Tác phẩm':
+    - 'Văn học': 'tac-pham/sach.md'
+    - 'Anime': 'tac-pham/anime.md'
+    - 'Manga': 'tac-pham/manga.md'
   - 'About': 'about.md'
 
 
@@ -195,6 +198,9 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.instant
+    - navigation.sections
+    - search.share
     - toc.follow
     - search.suggest
     - search.highlight

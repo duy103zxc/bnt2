@@ -1,18 +1,6 @@
 [SB5] Component Scan là gì?
 =============================
 
-The Wayback Machine - https://web.archive.org/web/20230602192645/https://loda.me/articles/sb5-component-scan-la-gi
-
-![Logo](https://web.archive.org/web/20230602192645im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 27, 2021 3:17 PM
-
 - Giới thiệu
 - Cài đặt
 - Component Scan
@@ -26,8 +14,7 @@ Oct 27, 2021 3:17 PM
 
 Trong bài trước tôi đã đề cập tới 2 trong số 3 Annotation cơ bản trong thiết kế Layer của **Spring Boot**.
 
-1. [🌟\
-\SB4\] @Component vs @Service vs @Repository
+1. [🌟SB4] @Component vs @Service vs @Repository
 
 Trong bài hôm này, chúng ta sẽ tìm hiểu thêm về cách **Spring Boot** tìm kiếm `Bean` trong project của bạn như thế nào.
 
@@ -245,10 +232,4 @@ hoặc
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

@@ -1,18 +1,6 @@
 「Jpa」Hướng dẫn tự tạo Validator để kiểm tra Model & Entity
 ============================================================================
 
-The Wayback Machine - https://web.archive.org/web/20230602180421/https://loda.me/articles/jpahuong-dan-tu-tao-validator-e-kiem-tra-model-entity
-
-![Logo](https://web.archive.org/web/20230602180421im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 28, 2021 8:20 AM
-
 - Giới thiệu
 - Cài đặt
 - Prepare
@@ -224,10 +212,4 @@ Rất đơn giản để có thể tự tạo ra cho mình các Validator với�
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

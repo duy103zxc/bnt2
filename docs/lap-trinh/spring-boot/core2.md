@@ -145,8 +145,7 @@ public void run(String... args) throws Exception {
 
 Mình sẽ hướng dẫn các bạn sử dụng `Spring Framework` tại đây nhé:
 
-1. [📷\
-\SB0\] Series làm chủ Spring Boot - Zero to Hero
+1. [📷SB0] Series làm chủ Spring Boot - Zero to Hero
 
 Chỉ cần xem ví dụ trong code thì bạn sẽ hiểu vấn đề hơn rất nhiều.
 
@@ -159,10 +158,4 @@ Chúc các bạn học tốt và nhớ chia sẻ cho bạn học cùng.
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

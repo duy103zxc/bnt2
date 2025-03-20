@@ -1,18 +1,6 @@
 [SB8] Tạo Web Helloworld với @Controller + Thymeleaf
 ========================================================
 
-The Wayback Machine - https://web.archive.org/web/20230602195227/https://loda.me/articles/sb8-tao-web-helloworld-voi-controller-thymeleaf
-
-![Logo](https://web.archive.org/web/20230602195227im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 27, 2021 3:21 PM
-
 - Giới thiệu
 - Cài đặt
 - @Controller
@@ -27,20 +15,13 @@ Oct 27, 2021 3:21 PM
 
 Trước tới giờ, tôi đã giới thiệu xong với bạn toàn bộ các khái niệm cơ bản về **Spring Boot** mà ai bắt đầu học đều phải biết.
 
-1. [📖\
-\SB1\] Hướng dẫn @Component và @Autowired
-2. [☎️\
-\SB2\] @Autowired - @Primary - @Qualifier
-3. [🚤\
-\SB3\] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
-4. [🌟\
-\SB4\] @Component vs @Service vs @Repository
-5. [📃\
-\SB5\] Component Scan là gì?
-6. [📹\
-\SB6\] @Configuration và @Bean
-7. [🚌\
-\SB7\] Spring Boot Application Config và @Value
+1. [📖SB1] Hướng dẫn @Component và @Autowired
+2. [☎️SB2] @Autowired - @Primary - @Qualifier
+3. [🚤SB3] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
+4. [🌟SB4] @Component vs @Service vs @Repository
+5. [📃SB5] Component Scan là gì?
+6. [📹SB6] @Configuration và @Bean
+7. [🚌SB7] Spring Boot Application Config và @Value
 
 Còn từ bài này, chúng ta sẽ học về các mảng chính mà người ta áp dụng **Spring Boot** vào, đó là **Lập trình Web** hoặc **Restful Web Service**.
 
@@ -387,10 +368,4 @@ Chi tiết về `Thymeleaf` tôi sẽ giới thiệu ở bài sau, tạm thờ
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

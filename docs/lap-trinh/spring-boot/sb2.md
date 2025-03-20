@@ -1,18 +1,6 @@
 [SB2] @Autowired - @Primary - @Qualifier
 ========================================
 
-The Wayback Machine - https://web.archive.org/web/20230602195612/https://loda.me/articles/sb2-autowired-primary-qualifier
-
-![Logo](https://web.archive.org/web/20230602195612im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-- Home
-- Khóa học
-- #dalog
-
-Created
-
-Oct 15, 2021 3:36 PM
-
 - Giới thiệu
 - Cài đặt
 - # Cách inject Bean của Spring
@@ -25,8 +13,7 @@ Oct 15, 2021 3:36 PM
 
 Trước khi đi vào phần này, có lẽ bạn muốn tìm hiểu cách vận hành của `@Autowired` tại:
 
-1. [📖\
-\SB1\] Hướng dẫn @Component và @Autowired
+1. [📖SB1] Hướng dẫn @Component và @Autowired
 
 Trong bài viết này chúng ta sẽ cùng tìm hiểu cách `@Autowỉed` vận hành và cách sử dụng 2 Annotation `@Primary`, `@Qualifier`.
 
@@ -324,10 +311,4 @@ public class Girl {
 💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
 
 🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua__Nam Hoàng Nguyễn (facebook.com)_
-
-
-
-
 

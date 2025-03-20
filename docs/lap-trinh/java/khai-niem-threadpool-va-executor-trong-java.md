@@ -1,22 +1,6 @@
-![Logo](https://web.archive.org/web/20230201184242im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
-
-Home](/web/20230201184242/https://loda.me/) [Khóa học](/web/20230201184242/https://loda.me/courses) [#dalog
-
-🚆
-
 # Khái niệm ThreadPool và Executor trong Java
 
-Created
 
-Oct 28, 2021 8:27 AM
-
-Tags
-
-javamiddle
-
-Chapter
-
-`Thread Pool` Là một trong những yếu tố chính tác động tới hiệu năng của các chương trình lớn, đòi hỏi xử lý đồng thời nhiều nhiệm vụ cùng lúc.
 
 Nếu bạn chưa rõ Thread trong Java, thì hãy đọc bài này trước:
 

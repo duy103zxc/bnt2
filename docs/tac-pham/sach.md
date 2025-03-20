@@ -1,0 +1,207 @@
+# Danh sách các tác phẩm kinh điển
+Chia ra làm các ngôn ngữ riêng (Việt, Anh, Nhật)
+
+## Tiếng Việt
+Danh sách các tác phẩm đầu thế kỉ 20. Muốn tổng hợp hết cơ @@!
+
+- [Số đỏ - Vũ Trọng Phụng](https://vi.wikipedia.org/wiki/S%E1%BB%91_%C4%91%E1%BB%8F)
+- [Giông tố - Vũ Trọng Phụng](https://vi.wikipedia.org/wiki/Gi%C3%B4ng_t%E1%BB%91)
+- [Tắt đèn - Ngô Tất Tố](https://vi.wikipedia.org/wiki/T%E1%BA%AFt_%C4%91%C3%A8n)
+- [Lều chõng - Ngô Tất Tố](https://vi.wikipedia.org/wiki/L%E1%BB%93u_ch%E1%BB%8Dng)
+- [Bước đường cùng - Nguyễn Công Hoan](https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bc_%C4%91%C6%B0%E1%BB%9Dng_c%C3%B9ng)
+- [O chuột - Nguyễn Công Hoan](https://vi.wikipedia.org/wiki/O_chu%E1%BB%99t)
+- [Chí Phèo - Nam Cao](https://vi.wikipedia.org/wiki/Ch%C3%AD_Ph%E1%BA%A8o)
+- [Lão Hạc - Nam Cao](https://vi.wikipedia.org/wiki/L%C3%A3o_H%E1%BA%A1c)
+- [Đôi mắt - Nam Cao](https://vi.wikipedia.org/wiki/%C4%90%C3%B4i_m%E1%BA%AFt_(truy%E1%BB%87n_ng%E1%BA%AFn))
+- [Vợ chồng A Phủ - Tô Hoài](https://vi.wikipedia.org/wiki/V%E1%BB%A3_ch%E1%BB%93ng_A_Ph%E1%BB%A7)
+- [Dế Mèn phiêu lưu ký - Tô Hoài](https://vi.wikipedia.org/wiki/D%E1%BA%BF_M%C3%A8n_phi%C3%AAu_l%C6%B0u_k%C3%BD)
+- [Chuyện cũ Hà Nội - Tô Hoài](https://vi.wikipedia.org/wiki/Chuy%E1%BB%87n_c%C5%A9_H%C3%A0_N%E1%BB%99i)
+- [Vang bóng một thời - Nguyễn Tuân](https://vi.wikipedia.org/wiki/Vang_b%C3%B3ng_m%E1%BB%99t_th%E1%BB%9Di)
+- [Gió đầu mùa - Thạch Lam](https://vi.wikipedia.org/wiki/Gi%C3%B3_%C4%91%E1%BA%A7u_m%C3%B9a)
+- [Hà Nội băm sáu phố phường - Thạch Lam](https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i_b%C4%83m_s%C3%A1u_ph%E1%BB%91_ph%C6%B0%E1%BB%9Dng)
+- [Nhà mẹ Lê - Thạch Lam](https://vi.wikipedia.org/wiki/Nh%C3%A0_m%E1%BA%B9_L%C3%AA)
+- [Sợi tóc - Thạch Lam](https://www.google.com/search?q=https://vi.wikipedia.org/wiki/S%25E1%25BB%25A3i_t%25C3%25B3c_(truy%25E1%25BB%2587n_ng%25E1%25AF%25AFn))
+- [Tố Tâm - Hoàng Ngọc Phách](https://vi.wikipedia.org/wiki/T%E1%BB%91_T%C3%A2m)
+- [Nửa chừng xuân - Khái Hưng](https://vi.wikipedia.org/wiki/N%E1%BB%ADa_ch%E1%BB%ABng_xu%C3%A2n)
+- [Gánh hàng hoa - Khái Hưng](https://vi.wikipedia.org/wiki/G%C3%A1nh_h%C3%A0ng_hoa)
+- [Hồn bướm mơ tiên - Khái Hưng](https://vi.wikipedia.org/wiki/H%E1%BB%93n_b%C6%B0%E1%BB%9Bm_m%C6%A1_ti%C3%AAn)
+- [Đoạn tuyệt - Nhất Linh](https://vi.wikipedia.org/wiki/%C4%90o%E1%BA%A1n_tuy%E1%BB%87t)
+- [Bướm trắng - Nhất Linh](https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Bm_tr%E1%BA%AFng)
+- [Quê mẹ - Thanh Tịnh](https://www.google.com/search?q=https://vi.wikipedia.org/wiki/Qu%25C3%25AA_m%25E1%25BA%25B9_(t%25E1%25BA%25ADp_truy%25E1%25BB%2587n_ng%25E1%25AF%25AFn))
+- [Thơ thơ - Xuân Diệu](https://vi.wikipedia.org/wiki/Th%C6%A1_th%C6%A1_(t%E1%BA%ADp_th%C6%A1))
+- [Gửi hương cho gió - Xuân Diệu](https://vi.wikipedia.org/wiki/G%E1%BB%ADi_h%C6%B0%C6%A1ng_cho_gi%C3%B3)
+- [Đôi bờ - Tố Hữu](https://vi.wikipedia.org/wiki/%C4%90%C3%B4i_b%E1%BB%9D_(t%E1%BA%ADp_th%C6%A1))
+- [Từ ấy - Tố Hữu](https://vi.wikipedia.org/wiki/T%E1%BB%AB_%E1%BA%A5y_(t%E1%BA%ADp_th%C6%A1))
+- [Nhật ký trong tù - Hồ Chí Minh](https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_k%C3%BD_trong_t%C3%B9)
+- [Đất nước đứng lên - Nguyên Ngọc](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A5t_n%C6%B0%E1%BB%9Bc_%C4%91%E1%BB%A9ng_l%C3%AAn)
+- [Sống mãi với Thủ đô - Nguyễn Huy Tưởng](https://vi.wikipedia.org/wiki/S%E1%BB%91ng_m%C3%A3i_v%E1%BB%9Bi_Th%E1%BB%A7_%C4%91%C3%B4)
+- [Bão táp triều Trần - Nguyễn Huy Tưởng](https://vi.wikipedia.org/wiki/B%C3%A3o_t%C3%A1p_tri%E1%BB%81u_Tr%E1%BA%A7n)
+- [Mùa lạc - Nguyễn Khải](https://vi.wikipedia.org/wiki/M%C3%B9a_l%E1%BA%A1c)
+- [Một người Hà Nội - Nguyễn Khải](https://vi.wikipedia.org/wiki/M%E1%BB%99t_ng%C6%B0%E1%BB%9Di_H%C3%A0_N%E1%BB%99i)
+- [Cửa biển - Nguyên Hồng](https://vi.wikipedia.org/wiki/C%E1%BB%ADa_bi%E1%BB%83n)
+- [Tuổi thơ dữ dội - Phùng Quán](https://vi.wikipedia.org/wiki/Tu%E1%BB%95i_th%C6%A1_d%E1%BB%AF_d%E1%BB%99i)
+- [Rừng xà nu - Nguyễn Trung Thành](https://vi.wikipedia.org/wiki/R%E1%BB%ABng_x%C3%A0_nu)
+- [Những đứa con trong gia đình - Nguyễn Thi](https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_%C4%91%E1%BB%A9a_con_trong_gia_%C4%91%C3%ACnh)
+- [Người mẹ cầm súng - Nguyễn Thi](https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_m%E1%BA%B9_c%E1%BA%A7m_s%C3%BAng)
+- [Thời xa vắng - Lê Lựu](https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_xa_v%E1%BA%AFng)
+- [Nỗi buồn chiến tranh (tên khác: Khải huyền muộn) - Bảo Ninh](https://vi.wikipedia.org/wiki/N%E1%BB%97i_bu%E1%BB%93n_chi%E1%BA%BFn_tranh)
+- [Ăn mày dĩ vãng - Chu Lai](https://vi.wikipedia.org/wiki/%C4%82n_m%C3%A0y_d%C4%A9_v%C3%A3ng)
+- [Mảnh đất tình người - Anh Đức](https://vi.wikipedia.org/wiki/M%E1%BA%A3nh_%C4%91%E1%BA%A5t_t%C3%ACnh_ng%C6%B0%E1%BB%9Di)
+- [Hòn Đất - Anh Đức](https://vi.wikipedia.org/wiki/H%C3%B2n_%C4%90%E1%BA%A5t)
+- [Đầu súng trăng treo - Nguyễn Duy](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7u_s%C3%BAng_tr%C4%83ng_treo)
+- [Áo trắng - Nguyễn Trọng Tạo](https://vi.wikipedia.org/wiki/%C3%81o_tr%E1%BA%AFng_(t%E1%BA%ADp_th%C6%A1))
+- [Chiếc thuyền ngoài xa - Nguyễn Minh Châu](https://vi.wikipedia.org/wiki/Chi%E1%BA%BFc_thuy%E1%BB%81n_ngo%C3%A0i_xa)
+- [Bến không chồng - Dương Hướng](https://vi.wikipedia.org/wiki/B%E1%BA%BFn_kh%C3%B4ng_ch%E1%BB%93ng)
+- [Thiên đường mù - Dương Thu Hương](https://vi.wikipedia.org/wiki/Thi%C3%AAn_%C4%91%C6%B0%E1%BB%9Dng_m%C3%B9)
+- [Bên kia bờ ảo vọng - Dương Thu Hương](https://vi.wikipedia.org/wiki/B%C3%AAn_kia_b%E1%BB%9D_%E1%BA%A3o_v%E1%BB%8Dng)
+- [Cánh đồng bất tận - Nguyễn Ngọc Tư](https://vi.wikipedia.org/wiki/C%C3%A1nh_%C4%91%E1%BB%93ng_b%E1%BA%A5t_t%E1%BA%ADn)
+- [Biển người mênh mông - Dương Hướng](https://www.google.com/search?q=https://vi.wikipedia.org/wiki/Bi%25E1%25BB%2583n_ng%25C6%25B0%25E1%25BB%259Di_m%25C3%25AAnh_m%25C3%25B4ng)
+- [Nguồn sáng - Nguyễn Thế Hoàng Linh](https://www.google.com/search?q=https://vi.wikipedia.org/wiki/Nguy%25E1%25BB%2585n_Th%25E1%25BA%25BF_Ho%25C3%25A0ng_Linh) (Một tác phẩm đương đại nổi bật)
+- [Mình và họ - Nguyễn Bình Phương](https://www.google.com/search?q=https://vi.wikipedia.org/wiki/Nguy%25E1%25BB%2585n_B%25C3%25ACnh_Ph%25C6%25B0%25C6%25A1ng) (Một tác phẩm đương đại đáng chú ý)
+- [Đi qua mùa đông - Nguyễn Thị Thu Huệ](https://www.google.com/search?q=https://vi.wikipedia.org/wiki/%25C4%2590i_qua_m%25C3%25B9a_%25C4%2591%25C3%25B4ng)
+- [Tiếng gọi nơi hoang dã - Jack London (Bản dịch của Vũ Trọng Phụng)](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_g%E1%BB%8Di_n%C6%A1i_hoang_d%C3%A3) (Một bản dịch kinh điển có giá trị văn học cao)
+
+## Tiếng Anh
+Danh sách này được tổng hợp từ [danh sách của Goodreads](https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels) và được thêm đường dẫn Wikipedia bởi Gemini. Có khá nhiều các tác phẩm trong đây có thể đọc trên Gutenberg hoặc Gutenberg-AU. Mình sẽ sửa lại trong quá trình đọc.
+
+- [To Kill a Mockingbird - Harper Lee](https://vi.wikipedia.org/wiki/Gi%E1%BA%BFt_con_chim_nh%E1%BA%A1i)
+- [1984 - George Orwell](https://vi.wikipedia.org/wiki/1984_(ti%E1%BB%83u_thuy%E1%BA%BFt))
+- [The Lord of the Rings - J.R.R. Tolkien](https://vi.wikipedia.org/wiki/Ch%C3%A9n_Nh%E1%BA%ABn)
+- [The Catcher in the Rye - J.D. Salinger](https://vi.wikipedia.org/wiki/B%E1%BA%AFt_tr%E1%BA%BB_tr%C3%AAn_c%C3%A1nh_%C4%91%E1%BB%93ng)
+- [The Great Gatsby - F. Scott Fitzgerald](https://vi.wikipedia.org/wiki/Gatsby_vĩ_%C4%91%E1%BA%A1i)
+- [The Lion, the Witch and the Wardrobe - C.S. Lewis](https://vi.wikipedia.org/wiki/Sư,_t%E1%BB%A7,_ph%C3%B9_th%E1%BB%A7y_v%C3%A0_t%E1%BB%A7_%C3%A1o)
+- [Lord of the Flies - William Golding](https://vi.wikipedia.org/wiki/Ch%C3%A9n_ruồi)
+- [Animal Farm - George Orwell](https://vi.wikipedia.org/wiki/Trại_súc_vật)
+- [Catch-22 - Joseph Heller](https://vi.wikipedia.org/wiki/Bẫy-22)
+- [The Grapes of Wrath - John Steinbeck](https://vi.wikipedia.org/wiki/Chùm_nho_uất_hận)
+- [Gone with the Wind - Margaret Mitchell](https://vi.wikipedia.org/wiki/Cuốn_theo_chiều_gió)
+- [Slaughterhouse-Five - Kurt Vonnegut Jr.](https://vi.wikipedia.org/wiki/Lò_mổ_số_5)
+- [One Flew Over the Cuckoo’s Nest - Ken Kesey](https://vi.wikipedia.org/wiki/Bay_qua_tổ_chim_cúc_cu)
+- [A Clockwork Orange - Anthony Burgess](https://vi.wikipedia.org/wiki/Quả_cam_lên_dây_cót)
+- [Lolita - Vladimir Nabokov](https://vi.wikipedia.org/wiki/Lolita)
+- [Are You There God? It’s Me, Margaret - Judy Blume](https://en.wikipedia.org/wiki/Are_You_There_God%3F_It%27s_Me,_Margaret.)
+- [Watchmen - Alan Moore](https://vi.wikipedia.org/wiki/Watchmen)
+- [Atonement - Ian McEwan](https://vi.wikipedia.org/wiki/Chuộc_tội_(tiểu_thuyết))
+- [Things Fall Apart - Chinua Achebe](https://vi.wikipedia.org/wiki/Tan_rã)
+- [Never Let Me Go - Kazuo Ishiguro](https://vi.wikipedia.org/wiki/Mãi_đừng_rời_xa)
+- [Invisible Man - Ralph Ellison](https://vi.wikipedia.org/wiki/Người_vô_hình_(tiểu_thuyết))
+- [Mrs. Dalloway - Virginia Woolf](https://vi.wikipedia.org/wiki/Bà_Dalloway)
+- [Beloved - Toni Morrison](https://vi.wikipedia.org/wiki/Yêu_dấu)
+- [On the Road - Jack Kerouac](https://vi.wikipedia.org/wiki/Trên_đường)
+- [The Sun Also Rises - Ernest Hemingway](https://vi.wikipedia.org/wiki/Mặt_trời_vẫn_mọc)
+- [The Big Sleep - Raymond Chandler](https://en.wikipedia.org/wiki/The_Big_Sleep)
+- [Possession - A.S. Byatt](https://en.wikipedia.org/wiki/Possession:_A_Romance)
+- [A Passage to India - E.M. Forster](https://vi.wikipedia.org/wiki/Con_đường_tới_Ấn_Độ)
+- [I, Claudius - Robert Graves](https://en.wikipedia.org/wiki/I,_Claudius)
+- [Their Eyes Were Watching God - Zora Neale Hurston](https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God)
+- [The Sound and the Fury - William Faulkner](https://vi.wikipedia.org/wiki/Tiếng_hú_và_cơn_cuồng_nộ)
+- [All the King's Men - Robert Penn Warren](https://en.wikipedia.org/wiki/All_the_King%27s_Men)
+- [The Blind Assassin - Margaret Atwood](https://vi.wikipedia.org/wiki/Sát_thủ_mù)
+- [Native Son - Richard Wright](https://en.wikipedia.org/wiki/Native_Son)
+- [Ragtime - E.L. Doctorow](https://en.wikipedia.org/wiki/Ragtime_(novel))
+- [Light in August - William Faulkner](https://en.wikipedia.org/wiki/Light_in_August)
+- [To the Lighthouse - Virginia Woolf](https://vi.wikipedia.org/wiki/Ngọn_hải_đăng)
+- [The French Lieutenant’s Woman - John Fowles](https://vi.wikipedia.org/wiki/Người_tình_của_Trung_úy_Pháp)
+- [The Spy Who Came In from the Cold - John Le Carré](https://vi.wikipedia.org/wiki/Điệp_viên_từ_vùng_lạnh)
+- [The Heart Is a Lonely Hunter - Carson McCullers](https://en.wikipedia.org/wiki/The_Heart_Is_a_Lonely_Hunter)
+- [Blood Meridian - Cormac McCarthy](https://vi.wikipedia.org/wiki/Huyết_kinh_tuyến)
+- [Naked Lunch - William S. Burroughs](https://vi.wikipedia.org/wiki/Bữa_trưa_trần_trụi)
+- [Brideshead Revisited - Evelyn Waugh](https://vi.wikipedia.org/wiki/Trở_lại_Brideshead)
+- [White Noise - Don DeLillo](https://en.wikipedia.org/wiki/White_Noise_(novel))
+- [Infinite Jest - David Foster Wallace](https://en.wikipedia.org/wiki/Infinite_Jest)
+- [Revolutionary Road - Richard Yates](https://en.wikipedia.org/wiki/Revolutionary_Road)
+- [Snow Crash - Neal Stephenson](https://en.wikipedia.org/wiki/Snow_Crash)
+- [Midnight’s Children - Salman Rushdie](https://vi.wikipedia.org/wiki/Những_đứa_con_của_nửa_đêm)
+- [The Prime of Miss Jean Brodie - Muriel Spark](https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie)
+- [Death Comes for the Archbishop - Willa Cather](https://en.wikipedia.org/wiki/Death_Comes_for_the_Archbishop)
+- [The Bridge of San Luis Rey - Thornton Wilder](https://en.wikipedia.org/wiki/Cầu_San_Luis_Rey)
+- [American Pastoral - Philip Roth](https://en.wikipedia.org/wiki/American_Pastoral)
+- [The Power and the Glory - Graham Greene](https://vi.wikipedia.org/wiki/Quyền_lực_và_vinh_quang)
+- [The Crying of Lot 49 - Thomas Pynchon](https://en.wikipedia.org/wiki/The_Crying_of_Lot_49)
+- [Portnoy’s Complaint - Philip Roth](https://en.wikipedia.org/wiki/Portnoy%27s_Complaint)
+- [Wide Sargasso Sea - Jean Rhys](https://en.wikipedia.org/wiki/Wide_Sargasso_Sea)
+- [Neuromancer - William Gibson](https://vi.wikipedia.org/wiki/Neuromancer)
+- [Red Harvest - Dashiell Hammett](https://en.wikipedia.org/wiki/Red_Harvest)
+- [The Corrections - Jonathan Franzen](https://en.wikipedia.org/wiki/The_Corrections)
+- [Gravity’s Rainbow - Thomas Pynchon](https://en.wikipedia.org/wiki/Gravity%27s_Rainbow)
+- [Under the Volcano - Malcolm Lowry](https://en.wikipedia.org/wiki/Under_the_Volcano)
+- [The Painted Bird - Jerzy Kosiński](https://en.wikipedia.org/wiki/The_Painted_Bird)
+- [Go Tell It on the Mountain - James Baldwin](https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain)
+- [A House for Mr Biswas - V.S. Naipaul](https://en.wikipedia.org/wiki/A_House_for_Mr_Biswas)
+- [Play It As It Lays - Joan Didion](https://en.wikipedia.org/wiki/Play_It_as_It_Lays)
+- [Lucky Jim - Kingsley Amis](https://en.wikipedia.org/wiki/Lucky_Jim)
+- [Ubik - Philip K. Dick](https://en.wikipedia.org/wiki/Ubik)
+- [Rabbit, Run - John Updike](https://en.wikipedia.org/wiki/Rabbit,_Run)
+- [White Teeth - Zadie Smith](https://vi.wikipedia.org/wiki/Răng_trắng)
+- [The Golden Notebook - Doris Lessing](https://en.wikipedia.org/wiki/The_Golden_Notebook)
+- [The Heart of the Matter - Graham Greene](https://vi.wikipedia.org/wiki/Bản_chất_vấn_đề)
+- [Pale Fire - Vladimir Nabokov](https://en.wikipedia.org/wiki/Pale_Fire)
+- [The Moviegoer - Walker Percy](https://en.wikipedia.org/wiki/The_Moviegoer)
+- [The Confessions of Nat Turner - William Styron](https://en.wikipedia.org/wiki/The_Confessions_of_Nat_Turner)
+- [Tropic of Cancer - Henry Miller](https://vi.wikipedia.org/wiki/Xứ_ung_thư)
+- [Appointment in Samarra - John O'Hara](https://en.wikipedia.org/wiki/Appointment_in_Samarra)
+- [Money - Martin Amis](https://en.wikipedia.org/wiki/Money_(novel))
+- [Deliverance - James Dickey](https://en.wikipedia.org/wiki/Deliverance_(novel))
+- [The Day of the Locust - Nathanael West](https://en.wikipedia.org/wiki/The_Day_of_the_Locust)
+- [Housekeeping - Marilynne Robinson](https://en.wikipedia.org/wiki/Housekeeping_(novel))
+- [The Man Who Loved Children - Christina Stead](https://en.wikipedia.org/wiki/The_Man_Who_Loved_Children)
+- [The Sot-Weed Factor - John Barth](https://en.wikipedia.org/wiki/The_Sot-Weed_Factor)
+- [The Adventures of Augie March - Saul Bellow](https://en.wikipedia.org/wiki/The_Adventures_of_Augie_March)
+- [Herzog - Saul Bellow](https://en.wikipedia.org/wiki/Herzog)
+- [At Swim-Two-Birds - Flann O'Brien](https://en.wikipedia.org/wiki/At_Swim-Two-Birds)
+- [Call It Sleep - Henry Roth](https://en.wikipedia.org/wiki/Call_It_Sleep)
+- [The Sheltering Sky - Paul Bowles](https://en.wikipedia.org/wiki/The_Sheltering_Sky)
+- [A Handful of Dust - Evelyn Waugh](https://en.wikipedia.org/wiki/A_Handful_of_Dust)
+- [The Berlin Stories - Christopher Isherwood](https://en.wikipedia.org/wiki/The_Berlin_Stories)
+- [A Death in the Family - James Agee](https://en.wikipedia.org/wiki/A_Death_in_the_Family)
+- [The Recognitions - William Gaddis](https://en.wikipedia.org/wiki/The_Recognitions)
+- [Dog Soldiers - Robert Stone](https://en.wikipedia.org/wiki/Dog_Soldiers)
+- [The Sportswriter - Richard Ford](https://en.wikipedia.org/wiki/The_Sportswriter)
+- [The Assistant - Bernard Malamud](https://en.wikipedia.org/wiki/The_Assistant_(Malamud_novel))
+- [Loving - Henry Green](https://en.wikipedia.org/wiki/Loving_(Green_novel))
+- [Under the Net - Iris Murdoch](https://en.wikipedia.org/wiki/Under_the_Net)
+- [A Dance to the Music of Time - Anthony Powell](https://en.wikipedia.org/wiki/A_Dance_to_the_Music_of_Time)
+- [An American Tragedy - Theodore Dreiser](https://vi.wikipedia.org/wiki/Một_tấn_bi_kịch_Mỹ)
+- [Falconer - John Cheever](https://en.wikipedia.org/wiki/Falconer_(novel))
+- [The Death of the Heart - Elizabeth Bowen](https://en.wikipedia.org/wiki/The_Death_of_the_Heart)
+
+## Tiếng Nhật
+
+- [源氏物語 - 紫式部](https://ja.wikipedia.org/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E) - *Truyện kể Genji* được coi là tiểu thuyết đầu tiên trên thế giới, kể về cuộc đời và những mối tình của hoàng tử Genji trong bối cảnh cung đình Nhật Bản thời Heian.
+- [枕草子 - 清少納言](https://ja.wikipedia.org/wiki/%E6%9E%95%E8%8D%89%E5%AD%90) - *Sách gối* là một tập hợp các ghi chép, suy nghĩ, và quan sát của Sei Shōnagon về cuộc sống và văn hóa trong cung đình thời Heian.
+- [平家物語 - 作者不詳](https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E) - *Truyện kể Heike* là một sử thi anh hùng kể về cuộc chiến giữa hai gia tộc Minamoto và Taira vào cuối thời kỳ Heian.
+- [徒然草 - 兼好法師](https://ja.wikipedia.org/wiki/%E5%BE%92%E7%84%B6%E8%8D%89) - *Tsurezuregusa* là một tập hợp các ghi chép tản mạn của nhà sư Yoshida Kenkō, chứa đựng những suy nghĩ về cuộc sống, cái đẹp và sự vô thường.
+- [奥の細道 - 松尾芭蕉](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E5%25A5%25A5%25E3%2581%25AE%25E7%25B%E7%B4%B0%25E9%2581%2593) - *Con đường hẹp về phương Bắc* là một nhật ký hành trình bằng thơ haiku của Matsuo Bashō, ghi lại những trải nghiệm và cảm xúc trên đường đi.
+- [好色一代男 - 井原西鶴](https://ja.wikipedia.org/wiki/%E5%A5%BD%E8%89%B2%E4%B8%80%E4%BB%A3%E7%94%B7) - *Kōshoku Ichidai Otoko* là một tiểu thuyết ukiyo-zōshi của Ihara Saikaku, kể về cuộc đời phiêu lưu tình ái của Yonosuke.
+- [雨月物語 - 上田秋成](https://ja.wikipedia.org/wiki/%E9%9B%A8%E6%9C%88%E7%89%A9%E8%AA%9E) - *Ugetsu Monogatari* là một tập truyện kinh dị và siêu nhiên của Ueda Akinari, lấy bối cảnh thời kỳ Edo.
+- [東海道中膝栗毛 - 十返舎一九](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E6%259D%25B1%25E6%25B5%25B7%25E9%2581%2593%25E4%25B8%25AD%25E8%2586%259D%25E6%25A0%2597%25E6%25AF%25AB) - *Tōkaidōchū Hizakurige* là một tiểu thuyết hài hước kể về chuyến đi dọc theo con đường Tōkaidō của hai nhân vật Yaji và Kita.
+- [坊っちゃん - 夏目漱石](https://ja.wikipedia.org/wiki/%E5%9D%8A%E3%81%A3%E3%81%A1%E3%82%83%E3%82%93) - *Botchan* kể về một giáo viên trẻ thẳng thắn và có phần ngây thơ chuyển đến dạy học ở một vùng quê hẻo lánh.
+- [吾輩は猫である - 夏目漱石](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E5%2590%25BE%25E8%25%E8%BC%A9%25E3%2581%25AF%25E7%258C%25AB%25E3%2581%25A7%25E3%2581%2582%25E3%2582%258B) - *Tôi là một con mèo* kể về những quan sát hài hước và sâu sắc của một con mèo về xã hội Nhật Bản thời Minh Trị.
+- [こころ - 夏目漱石](https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%93%E3%82%8D) - *Kokoro* khám phá mối quan hệ phức tạp giữa một người thầy và học trò, cùng những bí mật và nỗi cô đơn trong tâm hồn con người.
+- [羅生門 - 芥川龍之介](https://ja.wikipedia.org/wiki/%E7%BE%85%E7%94%9F%E9%96%80) - *Rashōmon* khám phá sự phức tạp của đạo đức và lòng người trong bối cảnh một cổng thành đổ nát.
+- [竹藪の中 - 芥川龍之介](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E8%2590%25B1%25E5%25B1%258B%25E3%2581%25AE%25E4%25B8%25AD) - *Trong rừng trúc* (thường được biết đến qua bộ phim *Rashomon*) kể về vụ giết người qua lời kể của nhiều nhân chứng với những phiên bản khác nhau.
+- [雪国 - 川端康成](https://ja.wikipedia.org/wiki/%E9%9B%AA%E5%9B%BD) - *Xứ tuyết* là một tiểu thuyết lãng mạn và đầy chất thơ về mối quan hệ giữa một người đàn ông Tokyo và một geisha.
+- [伊豆の踊子 - 川端康成](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E4%25BC%258A%25E8%25B1%2589%25E3%2581%25AE%25E8%25BA%258D%25E5%25AD%2590) - *Cô gái nhảy ở Izu* kể về mối tình thoáng qua và đầy cảm xúc giữa một sinh viên và một vũ công trẻ.
+- [金閣寺 - 三島由紀夫](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E9%2587%2591%25E9%2596%25A3%25E5%25AF%25BA_(%25E5%25B0%258F%25E8%25AA%25AC)) - *Chùa Vàng* dựa trên một sự kiện có thật về việc một nhà sư trẻ đốt cháy ngôi chùa Kinkaku-ji nổi tiếng.
+- [潮騒 - 三島由紀夫](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E6%25BD%25AE%25E9%25A8%2592_(%25E5%25B0%258F%25E8%25AA%25AC)) - *Tiếng sóng* là một câu chuyện tình yêu trong sáng và đầy chất thơ lấy bối cảnh một hòn đảo nhỏ.
+- [人間失格 - 太宰治](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%96%93%E5%A4%B1%E6%A0%BC) - *Thất lạc cõi người* là một tiểu thuyết bán tự truyện đầy ám ảnh về sự xa lánh và nỗi đau khổ của một người đàn ông.
+- [斜陽 - 太宰治](https://ja.wikipedia.org/wiki/%E6%96%9C%E9%99%BD) - *Ánh tà dương* miêu tả sự suy tàn của một gia đình quý tộc Nhật Bản sau Thế chiến thứ hai.
+- [二十四の瞳 - 壺井栄](https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E3%81%AE%E7%9E%B3) - *Hai mươi bốn con mắt* kể về cuộc đời của một nữ giáo viên và các học sinh của cô trong suốt những năm tháng chiến tranh và hậu chiến.
+- [細雪 - 谷崎潤一郎](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E7%25B0%25B8%25E9%259B%25AA) - *Sasameyuki* (Thường dịch là *The Makioka Sisters*) miêu tả cuộc sống và những mối quan hệ của bốn chị em trong một gia đình giàu có ở Osaka trước Thế chiến thứ hai.
+- [痴人の愛 - 谷崎潤一郎](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E7%2597%25A2%25E4%25BA%25BA%25E3%2581%25AE%25E6%2584%259B) - *A Fool's Love* khám phá sự ám ảnh và những mối quan hệ lệch lạc.
+- [砂の女 - 安部公房](https://ja.wikipedia.org/wiki/%E7%A0%82%E3%81%AE%E5%A5%B3) - *Người đàn bà cát* là một tiểu thuyết mang đậm tính ẩn dụ về sự giam cầm và ý nghĩa của cuộc sống.
+- [壁 - 安部公房](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E5%25A3%2581_(%25E5%25B0%258F%25E8%25AA%25AC)) - *Bức tường* là một tập truyện ngắn và tiểu thuyết ngắn mang phong cách siêu thực và hiện sinh.
+- [ノルウェイの森 - 村上春樹](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E6%A3%AE) - *Rừng Na Uy* kể về những ký ức và mối tình của một người đàn ông khi nhớ về quãng đời sinh viên đầy biến động.
+- [海辺のカフカ - 村上春樹](https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BE%BA%E3%81%AE%E3%82%AB%E3%83%95%E3%82%AB) - *Kafka bên bờ biển* là một tiểu thuyết phức tạp và đầy yếu tố siêu thực của Murakami Haruki.
+- [ねじまき鳥クロニクル - 村上春樹](https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%98%E3%81%BE%E3%81%8D%E9%B3%A5%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB) - *Biên niên ký chim vặn dây cót* là một tiểu thuyết dài và phức tạp của Murakami Haruki, pha trộn giữa hiện thực và yếu tố kỳ ảo.
+- [キッチン - 吉本ばなな](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2581%25E3%2583%25B3_(%25E5%25B0%258F%25E8%25AA%25AC)) - *Kitchen* là một tiểu thuyết ngắn và nổi tiếng của Yoshimoto Banana, khám phá những chủ đề về gia đình, mất mát và sự chữa lành.
+- [博士の愛した数式 - 小川洋子](https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A3%AB%E3%81%AE%E6%84%9B%E3%81%97%E3%81%9F%E6%95%B0%E5%BC%8F) - *Công thức toán học yêu dấu của giáo sư* kể về mối quan hệ đặc biệt giữa một giáo sư toán học bị mất trí nhớ ngắn hạn và người quản gia của ông.
+- [悼む人 - 天童荒太](https://ja.wikipedia.org/wiki/%E6%82%BC%E3%82%80%E4%BA%BA) - *Người than khóc* là một tiểu thuyết cảm động về một người đàn ông đi khắp Nhật Bản để cầu nguyện cho những người đã khuất.
+- [告白 - 湊かなえ](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E5%2591%258A%25E7%2599%25BD_(%25E5%25B0%258F%25E8%25AA%25AC)) - *Lời thú tội* là một tiểu thuyết trinh thám tâm lý ly kỳ với nhiều lớp lang bất ngờ.
+- [流 - 東山彰良](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E6%25B5%2581_(%25E6%259D%25B1%25E5%25B1%25B1%25E5%25BD%25B0%25E8%2589%25AF)) - *Ryū* là một tiểu thuyết kể về cuộc sống của một gia đình Đài Loan sống ở Nhật Bản sau chiến tranh.
+- [蜜蜂と遠雷 - 恩田陸](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E8%259C%2582%25E8%259C%259C%25E3%2581%25A8%25E9%2581%25A9%25E9%259B%25B7) - *Ong và Sấm* là một tiểu thuyết về cuộc thi piano quốc tế và những tài năng trẻ.
+- [コンビニ人間 - 村田沙耶香](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E4%BA%BA%E9%96%93) - *Nhân viên cửa hàng tiện lợi* là một tiểu thuyết độc đáo về một người phụ nữ cảm thấy thoải mái nhất khi làm việc tại một cửa hàng tiện lợi.
+- [夜は短し歩けよ乙女 - 森見登美彦](https://ja.wikipedia.org/wiki/%E5%A4%9C%E3%81%AF%E7%9F%AD%E3%81%97%E6%AD%A9%E3%81%91%E3%82%88%E4%B9%99%E5%A5%B3) - *Cô gái đêm đi* là một tiểu thuyết kỳ ảo và hài hước lấy bối cảnh Kyoto về đêm.
+- [かがみの孤城 - 辻村深月](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E5%AD%A4%E5%9F%8E) - *Lâu đài cô độc trong gương* là một tiểu thuyết giả tưởng dành cho lứa tuổi thanh thiếu niên với nhiều yếu tố bất ngờ.
+- [汝、星のごとく - 凪良ゆう](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E6%25B1%259D%25E3%2580%2581%25E6%2598%259F%25E3%2581%25AE%25E3%2581%2594%25E3%2581%25A8%25E3%2581%258F) - *Ngươi, như những vì sao* là một tiểu thuyết tình cảm và trưởng thành đầy xúc động.
+- [三体 - 劉慈欣 (Dịch từ tiếng Trung)](https://www.google.com/search?q=https://ja.wikipedia.org/wiki/%25E4%25B8%2589%25E4%25BD%2593_(%25E5%25B0%258F%25E8%25AA%25AC)) - *Tam Thể* (bản dịch tiếng Nhật) là một tiểu thuyết khoa học viễn tưởng nổi tiếng của tác giả Trung Quốc Lưu Từ Hân, có ảnh hưởng lớn đến văn học Nhật Bản.

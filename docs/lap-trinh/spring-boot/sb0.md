@@ -48,10 +48,8 @@ Còn rất nhiều thứ có thể kể về Spring nhưng vì không có ví 
 
 Trước khi học series này, bạn cần nắm được 2 kiến thức sau:
 
-1. [🦽\
-\core\] Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled
-2. [🌛\
-\core\] Giải thích Dependency Injection (DI) và IoC bằng Ngọc Trinh
+1. [🦽core] Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled
+2. [🌛core] Giải thích Dependency Injection (DI) và IoC bằng Ngọc Trinh
 
 Sau đó hãy đọc full series **Spring Boot** từ con số 0:
 
@@ -63,12 +61,9 @@ Chúc các bạn thành công!
 
 Trước khi mình viết xong hết, các bạn cần học **Spring Security**, rất quan trọng nhé 😉
 
-1. [🏟️\
-\SS\] Hướng dẫn Spring Security cơ bản, dễ hiểu
-2. [⛳\
-\SS\] Hướng dẫn Spring Security + Jpa Hibernate
-3. [🎐\
-\SS\] Hướng dẫn Spring Security + JWT (Json Web Token) + Hibernate
+1. [🏟️SS] Hướng dẫn Spring Security cơ bản, dễ hiểu
+2. [⛳SS] Hướng dẫn Spring Security + Jpa Hibernate
+3. [🎐SS] Hướng dẫn Spring Security + JWT (Json Web Token) + Hibernate
 
 Ngoài ra, còn RẤT NHIỀU bài viết liên quan tới hệ sinh thái xung quanh Spring Boot tại blog loda.me của mình, các bạn có thể tự khám phá! Rảnh thì đọc vài bài blog chia sẻ tâm sự cho qua mùa cô đơn nhé 🥲
 

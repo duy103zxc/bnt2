@@ -1,24 +1,5 @@
-「Jpa」 Hướng dẫn sử dụng Specification (Phần 1)
-=============================================================
+# 「Jpa」 Hướng dẫn sử dụng Specification (Phần 1)
 
-The Wayback Machine - https://web.archive.org/web/20230602175148/https://loda.me/articles/jpa-huong-dan-su-dung-specification-phan-1
-
-](https://web.archive.org/web/20230602175148/https://loda.me/)
-
-- 
-- 
-- 
-
-Created
-
-Oct 28, 2021 8:14 AM
-
-- 
-- 
-- 
-- 
-- 
-- 
 
 ### **Giới thiệu**
 
@@ -26,8 +7,8 @@ Trong một bài viết gần nhất về  tôi đã hướng dẫn các bạn
 
 Và trong một bài viết khác về JPA Repository thì chúng ta cũng đã biết cách custom các query bằng cách đặt tên method:
 
-1. 
-2. 
+1. 「Spring Boot #11」 Hướng dẫn Spring Boot JPA + MySQL
+2. 「Spring Boot #12」 Spring JPA Method + @Query 
 
 Tuy nhiên, trong các phương pháp trên, vẫn sẽ còn một số các điểm bất cập, ví dụ như `JpaRepository` thì bạn sẽ phải viết quá nhiều method và mỗi cái sẽ phục vụ cho một mục đích cố định (không thể tái sử dụng, reuseable).
 
@@ -54,13 +35,9 @@ userRepository.findAll(Specification.where(hasIdIn(Arrays.asList(1L, 2L, 3L, 4L,
 
 Với cách định nghĩa này, chúng ta có thể tái sử dụng query và tuỳ biến nó mọi lúc để phù hợp với yêu cầu.
 
-Khái niệm `Specification` được xây dựng tương đương với `Predicate` trong Hibernate. Bạn hãy đọc bài dưới trước khi đi tiếp vào bài này:
+Khái niệm `Specification` được xây dựng tương đương với `Predicate` trong Hibernate. Bạn hãy đọc bài dưới trước khi đi tiếp vào bài này: **Hướng dẫn sử dụng Criteria API trong Hibernate (Phần 2)** 
 
-1. 
-
-Trong bài có sử dụng:
-
-- 
+Trong bài có sử dụng: Lombok
 
 ### **Cài đặt**
 
@@ -235,12 +212,6 @@ userRepository.findAll(Specification.where(hasIdIn(Arrays.asList(1L, 2L, 3L, 4L,
 ### **Kết**
 
 Tới đây bạn đã có thể sử dụng `Specification` để thực hiện các truy vấn phức tạp và tái sử dụng được trong nhiều trường hợp. Đón đọc các bài sau về các phần nâng cao hơn.
-
-💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại ****
-
-🌟 Đây là một bài viết trong Series 
-
-_Nếu bạn phát hiện bài viết có lỗi hoặc outdated, hãy báo lại giúp mình theo email:__loda.namnh@gmail.com__hoặc qua___
 
 
 

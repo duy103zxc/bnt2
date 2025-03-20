@@ -1,4 +1,4 @@
-# \[JAV0\] Giới thiệu Series Java căn bản.
+# [JAV0] Giới thiệu Series Java căn bản.
 
 ### **Giới thiệu**
 

@@ -1,22 +1,6 @@
-![Logo](https://web.archive.org/web/20230201180631im_/https://super-static-assets.s3.amazonaws.com/8a72ee8e-d4aa-4a06-985f-e92802c5bc44/uploads/logo/36872858-1bc0-4117-bb6b-81d9934b5275.svg)
+# [JAV2] Biến, phạm vi, kiểu dữ liệu, toán tử trong Java
 
-Home](/web/20230201180631/https://loda.me/) [Khóa học](/web/20230201180631/https://loda.me/courses) [#dalog
 
-🔍
-
-# \[JAV2\] Biến, phạm vi, kiểu dữ liệu, toán tử trong Java
-
-Created
-
-Oct 28, 2021 8:39 AM
-
-Tags
-
-javabasic
-
-Chapter
-
-2
 
 - Giới thiệu
 - Biến & Kiểu dữ liệu
