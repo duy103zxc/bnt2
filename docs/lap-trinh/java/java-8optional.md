@@ -1,27 +1,6 @@
 # 「Java 8」Optional
 
-
-- Khái niệm Optional
-- ifPresent
-- orElse() và orElseGet()
-- map()
-- filter()
-
-### **Giới thiệu**
-
-Trước khi đi vào bài hôm nay, chúng ta cùng nghe cha đẻ của `Null` phát biểu :)))
-
-> Tôi gọi nó "sai lầm tỉ đô" 😂 hết
-
-Đùa đấy, vẫn còn
-
-> null reference được tôi tạo ra năm 1965. vào thời điểm đó, tôi đã thiết kế tổng quan hệ thống tham chiếu dữ liệu cho ngôn ngữ lập trình hướng đối tượng. Mục tiêu của tôi là đảm bảo các tham chiếu tuyệt đối an toàn và được kiểm tra tự động bởi compiler. Nhưng,... Tôi đã không thể cưỡng lại được ham muốn đặt thêm thằng cu null vào hệ thống. Vì nó giúp implement dễ hơn :))) Điều này vô tình dẫn tới vô số lỗi, lỗ hổng và sự cố hệ thống, gây ra bao đau đớn và thương nhớ cho hàng triệu developer và cũng giúp nhiều công ty thiệt hại hàng tỉ dollar.
-
-Những lời tâm sự muộn màng :(((
-
-Chắc hẳn trong chúng ta ai cũng một lần bị ám ảnh bởi `NullPointerException` huhu. Mặc dù tới nay, các ngôn ngữ mới đều đã kiểm soát `null` để đảm bảo những dòng `code` được an toàn (`Scala`, `Kotlin`). Tuy nhiên, `Java` chưa nằm trong số đó :)))
-
-Nhưng phòng còn hơn tránh, `Java 8` ra đời cùng với một class mới tên là `Optional`. Nhiệm vụ của nó là kiểm soát `null` hộ chúng ta.
+`Java 8` ra đời cùng với một class mới tên là `Optional`. Nhiệm vụ của nó là kiểm soát `null` hộ chúng ta.
 
 ### **Khái niệm Optional**
 

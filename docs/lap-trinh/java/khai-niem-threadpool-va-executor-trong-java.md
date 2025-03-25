@@ -1,11 +1,9 @@
 # Khái niệm ThreadPool và Executor trong Java
 
-
-
 Nếu bạn chưa rõ Thread trong Java, thì hãy đọc bài này trước:
 
-1. Thread và xử lý đa luồng trong Java
-2. Kiến thức nâng cao, sau khi đọc xong bài này: ThreadPoolExecutor
+1. [Thread và xử lý đa luồng trong Java](thread.md)
+2. Kiến thức nâng cao, sau khi đọc xong bài này: [ThreadPoolExecutor](threadpoolexecutor-va-nguyen-tac-quan-ly-pool-size.md)
 
 Một ví dụ đơn giản nhé (Trong thực tế sẽ khác, hãy coi đây là ví dụ nha):
 
@@ -21,13 +19,9 @@ Với việc xử lý các tác vụ liên tục như vậy, có một giải ph
 
 Ở ví dụ trên, Bây giờ tôi sẽ chỉ sử dụng 30 thread thôi! Và đặt 30 thread này ở trạng thái không làm gì và vứt vào 1 cái `Pool` (1 cái bể chứa, kiểu vậy). Với mỗi request đến, tôi sẽ lấy trong `Pool` ra 1 thread và xử lý công việc, xử lý xong, thì cất thread vào ngược trở lại pool. Đơn giản vậy thôi, như thế chúng ta sẽ không phải tạo mới Thread nữa. Tránh tình tốn chi phí và hiệu năng.
 
-Vấn đề là giả sử có hơn 31 request tới cùng lúc thì sao? rất đúng, trường hợp này là chắc chắn có. Lúc này `Pool` sẽ không còn thread nào sẵn có nữa. Nên 1 request còn lại sẽ bị đẩy vào 1 hàng đợi `BlockingQueue`. Nó sẽ đợi ở đó, bao giờ `Pool` có 1 thread rảnh rỗi thì sẽ quay lại xử lý nốt =))) Chịu thôi, cứ ví dụ vậy hah.
+Vấn đề là giả sử có hơn 31 request tới cùng lúc thì sao? rất đúng, trường hợp này là chắc chắn có. Lúc này `Pool` sẽ không còn thread nào sẵn có nữa. Nên 1 request còn lại sẽ bị đẩy vào 1 hàng đợi `BlockingQueue`. Nó sẽ đợi ở đó, bao giờ `Pool` có 1 thread rảnh rỗi thì sẽ quay lại xử lý nốt.
 
-!image
-
-Đó là concept của `ThreadPool` đó các bạn.
-
-### **\#****Cách tạo ThreadPool trong Java**
+### Cách tạo ThreadPool trong Java
 
 Java Concurrency API hỗ trợ một vài loại `ThreadPool` sau:
 
@@ -40,7 +34,6 @@ Java Concurrency API hỗ trợ một vài loại `ThreadPool` sau:
 
 `Executor` là một class đi kèm trong gói `java.util.concurrent`, là một đối tượng chịu trách nhiệm quản lý các luồng và thực hiện các tác vụ Runnable được yêu cầu xử lý. Nó tách riêng các chi tiết của việc tạo Thread, lập kế hoạch (scheduling), … để chúng ta có thể tập trung phát triển logic của tác vụ mà không quan tâm đến các chi tiết quản lý Thread.
 
-!image
 
 Nói chung nó là thằng wrapper các các bước mình nói ở trên, và quản lý hộ chúng ta.
 
@@ -183,10 +176,3 @@ pool-1-thread-1 Finished process request-99
 ```
 
 Có chút khởi sắc, chương trình chạy nhanh hơn hẳn. Vì nó được tạo số thread thoải mái nếu cần :)))) Rất nguy hiểm. Nhưng bạn sẽ thấy là có chỗ nó sử dụng lại các thread đã xong trước đó.
-
-Bài viết tới đây kết thúc, Đây là một kiến thức rất quan trọng nên các bạn cố gắng nắm vững nhé.
-
-toàn bộ code mình để tại GITHUB loda-kun: CODE
-
-chúc các bạn học tập tốt! ohoho
-

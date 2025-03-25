@@ -128,14 +128,3 @@ Cách thứ ba này cũng là cách làm phổ biển nhất. Mối liên hệ g
 ### **Dependency Injection**
 
 Sau khi bạn đã nắm được 2 khái niệm **tight-coupling** và **loosely-coupled** thì sẽ có thể hiểu dễ dàng khái niệm **Dependency Injection**. Một trong những nhân tố chính giúp cuộc đời lập trình Java của bạn trở nên tươi sáng hơn.
-
-Xem thêm tại:
-
-### **Kết**
-
-Việc code để có thể chạy là rất đơn giản, nhưng để có thể khiến code có thể dễ dàng mở rộng và bảo trì thì là cả một thách thức. Chúng ta sẽ cùng tìm hiểu các khái niệm trong lập trình hướng đối tượng ở các bài sau.
-
-💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
-
-🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-

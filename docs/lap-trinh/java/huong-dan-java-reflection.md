@@ -1,16 +1,9 @@
 
 # Hướng dẫn Java Reflection
 
+### Giới thiệu
 
-- Java Reflection
-- Lấy ra Thuộc tính (Field)
-- Lấy ra Hàm (Method)
-- Lấy ra Constructor
-- Lấy ra Annotation trên Field, Method, Class
-
-### **Giới thiệu**
-
-`Java Relection` là một core package trong thư viện chuẩn của `Java`. Mục đích của nó là cho phép chúng ta truy cập vào **gần như mọi thứ** bên trong đối tượng. "Dưới một góc độ khác"!
+`Java Relection` là một core package trong thư viện chuẩn của `Java`. Mục đích của nó là cho phép chúng ta truy cập vào gần như mọi thứ bên trong đối tượng. "Dưới một góc độ khác"!
 
 Chúng ta thường biết tới `Java` thông qua khái niệm hướng đối tượng như sau:
 
@@ -47,15 +40,15 @@ public class Girl {
 
 Đúng vậy, khi chúng ta muốn gọi tên thuộc tính, mà lại không muốn gõ `.` và nhớ ra tên thuộc tính, thì làm như nào?
 
-Bây giờ, chúng ta phải tiếp cận từ góc nhìn khác. Chúng ta sẽ ước mình có thể **duyệt hết tất cả** các thuộc tính của 1 class bằng vòng lặp. Rồi check xem thuộc tính có là `String` không? nếu có thì gán giá trị mới là "Ngoc Trinh"!
+Bây giờ, chúng ta phải tiếp cận từ góc nhìn khác. Chúng ta sẽ ước mình có thể duyệt hết tất cả các thuộc tính của 1 class bằng vòng lặp. Rồi check xem thuộc tính có là `String` không? nếu có thì gán giá trị mới là "Ngoc Trinh"!
 
 Để làm được điều này, chúng ta cần đào sâu vào `Class` và phá vỡ giới hạn của java truyền thống. Đây là lúc `Java Reflection` (Sự phản chiếu) vào trận.
 
-### **Java Reflection**
+### Java Reflection
 
 `Java Reflecion` cho phép bạn đánh giá, sửa đổi cấu trúc và hành vi của một đối tượng tại thời gian chạy (runtime) của chương trình. Đồng thời nó cho phép bạn truy cập vào các thành viên private (private member) tại mọi nơi trong ứng dụng, điều này không được phép với cách tiếp cận truyền thống.
 
-### **Lấy ra Thuộc tính (Field)**
+### Lấy ra Thuộc tính (Field)
 
 Quay trở lại ví dụ trên, Chúng ta sẽ lấy ra toàn bộ thuộc tính của `Girl`. Tìm xem cái nào tên `name` và bổ sung giá trị mới cho nó.
 
@@ -110,7 +103,7 @@ public class Girl {
 // Girl{name='Bella'}
 ```
 
-### **Lấy ra Hàm (Method)**
+### Lấy ra Hàm (Method)
 
 Vấn đề đặt ra, giống với `field`. Chúng ta cũng sẽ có nhu cầu duyệt tìm một `method` nào đó và sử dụng nó:
 
@@ -139,7 +132,7 @@ public static void main(String[] args) throws Exception {
 }
 ```
 
-### **Lấy ra Constructor**
+### Lấy ra Constructor
 
 Lấy ra hàm khởi tạo của một class. Từ đó cho phép chúng ta cách tạo ra đối tượng từ theo một cách khác, thay vì `new Class()` như bình thường
 
@@ -166,7 +159,7 @@ public static void main(String[] args) {
 }
 ```
 
-### **Lấy ra Annotation trên Field, Method, Class**
+### Lấy ra Annotation trên Field, Method, Class
 
 Đúng vậy, đây cũng chính là một trong những phần quan trọng bậc nhất của `Java Reflection`. Cho phép chúng ta kiểm tra `Class` hiện tại đang được chú thích bởi những `Annotation` nào.
 
@@ -212,12 +205,3 @@ public class Girl {
     }
 }
 ```
-
-Với cách này, bạn hoàn toàn có thể tự tạo ra 1 `Annotation` và xử lý nó, Chi tiết xem tại:
-
-🎴
-
-Hướng dẫn tự tạo một Annotations
-
-Bài viết tới đây kết thúc, bạn đã có thể sử dụng `Java Reflection` xoành xoạch rồi đó, chúc bạn học tập tốt ahoho!
-

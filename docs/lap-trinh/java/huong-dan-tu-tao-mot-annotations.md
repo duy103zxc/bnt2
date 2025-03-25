@@ -1,8 +1,8 @@
 # Hướng dẫn tự tạo một Annotations
 
-### **Giới thiệu**
+### Khái niệm
 
-`Annotation` (Chú thích) được sử dụng để **chú thích** trên một `class`, một trường (`field`) hoặc một `method` để cung cấp hoặc bổ sung các thông tin. Nó hoàn toàn không ảnh hưởng tới code của bạn.
+`Annotation` (Chú thích) được sử dụng để chú thích trên một `class`, một trường (`field`) hoặc một `method` để cung cấp hoặc bổ sung các thông tin. Nó hoàn toàn không ảnh hưởng tới code của bạn.
 
 Trong bài có sử dụng các kiến thức:
 
@@ -22,27 +22,23 @@ Còn _chú thích cho quá trình build_ thì không hẳn có ví dụ cụ t
 
 _Chú thích trong quá trình chạy chương trình_ sẽ là nội dung chính của chúng ta hôm nay. Đây là những `Annotation` mà chỉ khi bạn chạy chương trình rồi thì nó mới tác động tới code. Cùng vào ví dụ để dễ hiểu nhé!
 
-### **Khai báo Annotation**
+### Khai báo Annotation
 
 Cách khai báo `Annotation` là sử dụng `@interface`
 
 vậy là bạn đã có 1 `Annotation`. Giờ gọi nó ra và sử dụng:
 
-Đơn giản phải không? Tuy nhiên, hiện tại `Annotation` chỉ hiển thị trong code như vậy thôi! chứ nó chả có tác dụng gì cả :))))
-
-Chúng ta cần viết thêm code để xử cái lý cái `@JsonName` này.
-
-### **Khai báo phạm vi cho Annotation**
+### Khai báo phạm vi cho Annotation
 
 Chúng ta có thể quy định phạm vi sử dụng của `Annotation` bằng cách:
 
-`@Retention`: Dùng để chú thích **mức độ tồn tại** của một annotation nào đó. Cụ thể có 3 mức nhận thức tồn tại của vật được chú thích:
+`@Retention`: Dùng để chú thích mức độ tồn tại của một annotation nào đó. Cụ thể có 3 mức nhận thức tồn tại của vật được chú thích:
 
 1. `RetentionPolicy.SOURCE`: Tồn tại trên code nguồn, và không được bộ dịch (compiler) nhận ra.
 2. `RetentionPolicy.CLASS`: Mức tồn tại được bộ dịch nhận ra, nhưng không được nhận biết bởi máy ảo tại thời điểm chạy (Runtime).
 3. `RetentionPolicy.RUNTIME`: Mức tồn tại lớn nhất, được bộ dịch (compiler) nhận biết, và máy ảo (jvm) cũng nhận ra khi chạy chương trình.
 
-`@Target`: Dùng để chú thích **phạm vi sử dụng** của một `Annotation`
+`@Target`: Dùng để chú thích phạm vi sử dụng của một `Annotation`
 
 1. `ElementType.TYPE` \- Cho phép chú thích trên Class, interface, enum, annotation.
 2. `ElementType.FIELD` \- Cho phép chú thích trường (field), bao gồm cả các hằng số enum.
@@ -53,17 +49,13 @@ Chúng ta có thể quy định phạm vi sử dụng của `Annotation` bằn
 7. `ElementType.ANNOTATION_TYPE` \- Cho phép chú thích trên Annotation khác
 8. `ElementType.PACKAGE` \- Cho phép chú thích trên package.
 
-### **Xử lý Annotation**
+### Xử lý Annotation
 
-Bước 1: Chú thích bất kì chỗ nào bạn thích :)))
+Bước 1: Chú thích bất kì chỗ nào bạn muốn.
 
-Bước 2: Viết class xử lý `@JsonName`:
+Bước 2: Viết class xử lý `@JsonName`
 
 Bước 3: Chạy thử:
-
-Vậy là các bạn đã thành công cho việc tự tạo cho mình 1 `Annotation` rồi :v
-
-Chúc các bạn học tập tốt hihi :3
 
 ```java
 public @interface JsonName {

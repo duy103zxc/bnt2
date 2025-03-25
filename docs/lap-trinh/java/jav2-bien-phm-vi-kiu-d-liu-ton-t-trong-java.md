@@ -1,28 +1,6 @@
-# [JAV2] Biến, phạm vi, kiểu dữ liệu, toán tử trong Java
+# Biến, phạm vi, kiểu dữ liệu, toán tử trong Java
 
-
-
-- Giới thiệu
-- Biến & Kiểu dữ liệu
-- Cách khai báo
-- Cách đặt tên
-- Phạm vi sử dụng
-- Toán tử
-- Ép kiểu dữ liệu
-- Bản chất của biến (Nói thêm)
-- Lời kết
-
-### **Giới thiệu**
-
-Hế luuuuu everyone, lại là mình `Loda` đây, chào mừng các bạn quay trở lại với series **Thành thạo Java Basic trong 2 tuần.**. Trong bài ngày hôm nay, chúng ta sẽ học về **Biến**, **Kiểu dữ liệu** và một số các **Toán tử** trong `Java` nhé các bạn. Bài này sẽ khá nhiều ví dụ và kiến thức nên chúng ta vào bài luôn hah.
-
-### **Biến & Kiểu dữ liệu**
-
-Chúng ta sẽ chạy một ví dụ trước rồi đi vào chi tiết nhé. Các bạn tạo một project mới, đặt tên là `Bài 2` hay gì cũng được, tuỳ bạn chọn nhé. Và tạo cho mình một file là `Calculation.java` như hình.
-
-!image
-
-Sau đó các bạn viết code như này và chạy thử:
+### Biến & Kiểu dữ liệu
 
 ```java
 public class Calculation{
@@ -37,10 +15,6 @@ public class Calculation{
 }
 ```
 
-Các bạn chạy chương trình này (click chuột phải vào file `Calculation > Run Main()`). sẽ thấy hiện kết quả là `c = 15`;
-
-Nhìn code thì rất dễ hiểu phải không, tuy nhiên chúng ta cùng lí giải chi tiết để hiểu hơn về `Biến` và `Kiểu dữ liệu` trong `Java`.
-
 Thứ nhất là cái `// khai bao so nguyen`, cái này gọi là `Comment`, tức các bạn viết gì sau 2 cái dấu `//` thì nó sẽ không ảnh hưởng tới `code` của chương trình, nó chỉ mang ý nghĩa chú thích thôi.
 
 Thứ hai là cái này:
@@ -49,13 +23,11 @@ Thứ hai là cái này:
 int a = 5;
 ```
 
-Nói về `Biến` (`Variable`) các bạn có liên tưởng tới liên tưởng tới biến `x` trong đồ thị hàm số `ax + b = 0` không 😂 Thì chính là nó đấy.
+Nói về `Biến` (`Variable`) các bạn có liên tưởng tới liên tưởng tới biến `x` trong đồ thị hàm số `ax + b = 0` không. Thì chính là nó đấy.
 
 > Biến sẽ giúp chúng ta lưu trữ và quản lý các giá trị trong chương trình.
 
-Trong `Java`, `Biến` cũng là đại diện cho một đối tượng và đối tượng này phải được xác định là thuộc `Kiểu dữ liệu` nào. Sẽ giống với phương trình `x` kia, nhưng đề bài phải ghi rõ `x` là số nguyên, số thực hay số phức để người làm bài người ta còn biết.
-
-Có các kiểu dữ liệu `nguyên thuỷ` (`primitive`) như sau:
+Trong `Java`, `Biến` cũng là đại diện cho một đối tượng và đối tượng này phải được xác định là thuộc `Kiểu dữ liệu` nào. Có các kiểu dữ liệu `nguyên thuỷ` (`primitive`) như sau:
 
 - `boolean`: là kiểu logic, chỉ có 2 giá trị `true` hoặc `false`
 - `char`: kiểu ký tự, chỉ chứa đc được một ký tự, được định nghĩa trong dấu ngoặc đơn `'`
@@ -64,71 +36,13 @@ Có các kiểu dữ liệu `nguyên thuỷ` (`primitive`) như sau:
 - `float`: số thực (`1.5, 2.5, ..`).
 - `double`: số thực, lớn hơn `float`.
 
-Ngoài ra còn 2 kiểu dữ liệu nhỏ hơn `int` là `byte` và `short`. Thì mình sẽ nói sau hah. Còn trước mắt tập trung vào các nhóm chính kia đã.
+Ngoài ra còn 2 kiểu dữ liệu nhỏ hơn `int` là `byte` và `short`.
 
-Tiếp đến là kiểu dữ liệu cao cấp hơn gọi là `Object` mà đặc trưng nhất là `String`.
+Kiểu dữ liệu cao cấp hơn gọi là `Object` mà đặc trưng nhất là `String`.
 
-- `String`: Một chuỗi các ký tự, được định nghĩa trong dấu ngoặc kép `""`. vd `String a = "Hellooo world~~~"` (Nhớ tới ví dụ ở `Bài #1` hem các bạn)
+- `String`: Một chuỗi các ký tự, được định nghĩa trong dấu ngoặc kép `""`. vd `String a = "Hellooo world~~~"`
 
-Mọi loại dữ liệu đều có một cái gọi là `Giá trị mặc định`, khi các bạn không cung cấp cho nó giá trị, nó sẽ tự có 1 giá trị mặc định.
-
-### Untitled
-
-KIỂU DỮ LIỆUGIÁ TRỊ MẶC ĐỊNHKÍCH THƯỚCboolean
-
-false
-
-1 bit
-
-char
-
-'\\u0000'
-
-2 byte
-
-byte
-
-0
-
-1 byte
-
-short
-
-0
-
-2 byte
-
-int
-
-0
-
-4 byte
-
-long
-
-0L
-
-8 byte
-
-float
-
-0.0f
-
-4 byte
-
-double
-
-0.0d
-
-8 byte
-
-String
-
-null
-
-Ở đây bạn sẽ thấy có chữ `L``f``d` sau số `0`. Đó là những ký tự đánh dấu cho Java phân biệt là số `0L` là số 0 nhưng dạng `long`, `f` là dạng `float`, `d` là `double`.
-
-### **Cách khai báo**
+### Cách khai báo
 
 Để khai báo biến, bắt buộc trước đó bạn phải chỉ cho nó `kiểu dữ liệu` mà nó sẽ nhận, ngoài ra có thể có giá trị hoặc không.
 
@@ -143,15 +57,11 @@ char t = 'c';
 String e = "Hello";
 ```
 
-### **Cách đặt tên**
+### Cách đặt tên
 
-Trong `Java`, tuy không bắt buộc, nhưng chúng ta luôn thống nhất với nhau cách đặt tên biến theo một nguyên tắc, để đảm bảo khi đọc `code` sẽ có tính nhất quán và chuẩn chỉnh.
+Tên biến phải tuân theo `quy tắc lạc đà (Camel Case)`: đó là chữ cái đầu tiên của từ đầu tiên phải viết thường và chữ cái đầu tiên của các từ tiếp theo phải viết hoa, ví dụ: `listStudent`, `minScore`.
 
-- Tên biến phải tuân theo `quy tắc lạc đà (Camel Case)`: đó là chữ cái đầu tiên của từ đầu tiên phải viết thường và chữ cái đầu tiên của các từ tiếp theo phải viết hoa, ví dụ: `listStudent`, `minScore`.
-
-Chi tiết các bạn xem ở đây nhé, nói ra khá dài, nhưng nắm được cái ý ở trên của mình là cũng khá ổn r.
-
-### **Phạm vi sử dụng**
+### Phạm vi sử dụng
 
 Một khi bạn đã khai báo biến, thì bạn có thể sử dụng nó trong những `Phạm vi` mà nó khả dụng. ?? 😀?? Cùng nhìn ví dụ ở dưới nhé.
 
@@ -198,7 +108,7 @@ public class Calculation{
 }
 ```
 
-### **Toán tử**
+### Toán tử
 
 Khi đã xác định các `Biến` trong chương trình, bạn có thể sử dụng `toán tử` để thay đổi các giá trị. Các `toán tử` thì khá đơn giản, giống môn toán bình thường thôi. Với các kiểu `nguyên thuỷ (primitive)` ta có:
 
@@ -233,9 +143,7 @@ public class Calculation{
 }
 ```
 
-Ở trên có một ví dụ về việc cộng một `String` với `int`. Rất kì lạ phải không, 2 `kiểu dữ liệu` khác nhau khi tính toán với nhau thì sẽ được `Java` xử lý bằng cách `Ép kiểu`.
-
-### **Ép kiểu dữ liệu**
+### Ép kiểu dữ liệu
 
 Nhìn vào ví dụ sau, bạn sẽ rõ.
 
@@ -264,15 +172,11 @@ public class Calculation{
 }
 ```
 
-Tới đây là các bạn đã có thể sử dụng được `Biến` trong `Java` rồi đó, có thể sử dụng làm bài tập được rồi kakakakaka :D, còn phần dưới đây mình sẽ nói thêm về bản chất của `Biến` và giới hạn giá trị của nó.
-
-### **Bản chất của biến (Nói thêm)**
+### Bản chất của biến (Nói thêm)
 
 Khi các bạn khai báo một biến `int` trong chương trình của mình và sử dụng lung tung khắp mọi nơi, thì bạn có biết cái biến `int` ý ở đâu lòi ra không :))
 
 Về bản chất, `Biến` sẽ là một vùng nhớ trong thiết bị vật lý mà dễ nhất là để trong `ram`. và khi bạn cho nó một giá trị, nó sẽ lưu trữ số đó vào `ram`, và cần thì lấy lên.
-
-!image
 
 Vậy để `ram` biết bạn muốn lưu cái gì thì bạn phải khai báo cho nó. Ví dụ bạn bảo tôi cần một số nguyên `int`. Thì máy tính hiểu là mình cần lưu trữ một số nguyên bình thường, không quá lớn, nó sẽ cho bạn `4 byte` trong `Ram` thích lưu gì thì lưu. nhưng `không được vượt quá 4 byte`.
 
@@ -281,10 +185,4 @@ Vậy để `ram` biết bạn muốn lưu cái gì thì bạn phải khai bá
 Từ đây, bạn sẽ hiểu vì sao có số `long`, vì nhu cầu lưu số lớn hơn thì `long` được cấp tận `8 byte`.
 
 Còn trường hợp đặc biệt như `String` thì tuỳ giá trị của nó có bao nhiêu ký tự, mà `Ram` sẽ cấp tương ứng bấy nhiêu `byte`
-
-### **Lời kết**
-
-hết rồi kaka 😄Ở các bài sau mình sẽ vừa đi vừa nói lại những phần còn thiếu trong `Biến` này nên các bạn chớ lo nhé. Chúc các bạn học tập tốt.
-
-Nhớ like và chia sẻ cho bạn bè nhé ahehe/
 
