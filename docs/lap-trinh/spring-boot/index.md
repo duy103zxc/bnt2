@@ -10,7 +10,6 @@ Phần source code có thể đọc trên [loda-kun/spring-boot-learning](https:
 
 - 🦽 [core] [Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled](core1.md)
 - 🌛 [core] [Giải thích Dependency Injection (DI) và IoC bằng Ngọc Trinh](core2.md)
-- 📷 [SB0] [Series làm chủ Spring Boot - Zero to Hero](sb0.md)
 - 📖 [SB1] [Hướng dẫn @Component và @Autowired](sb1.md)
 - ☎️ [SB2] [@Autowired - @Primary - @Qualifier](sb2.md)
 - 🚤 [SB3] [Spring Bean Life Cycle + @PostConstruct và @PreDestroy](sb3.md)

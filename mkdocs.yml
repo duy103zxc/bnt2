@@ -1,9 +1,9 @@
-site_name: duykhanh471
-site_description: Một trang học tập cá nhân của duykhanh471
+site_name: Một trang đần đần của duykhanh471
+site_description: Tôi rảnh nên ném hết trải nghiệm về học tập và một số khác lên đây
 site_author: duykhanh471  
-site_url: https://duy103zxc.github.io
+site_url: https://duy103zxc.github.io/bnt2
 repo_name: Chỉnh sửa các thứ
-repo_url: https://github.com/duy103zxc/duy103zxc.github.io
+repo_url: https://github.com/duy103zxc/bnt2
 
 nav:
   - 'Trang chủ': 'index.md'
@@ -13,7 +13,44 @@ nav:
       - 'Nguyễn Hiến Lê': 'hoc-hoi/hoc-gia/nguyen-hien-le.md'
     - 'Sách':
       - 'Exit Modernity': 'hoc-hoi/bai-viet/chay-tron-hien-dai.md'
-  - 'Lập trình':
+  - 'Cá nhân':
+    - 'Du lịch':
+      - 'Hà Nội':
+        - 'Mở đầu': 'ban-than/du-lich/ha-noi/index.md'
+        - 'Sóc Sơn':
+          - 'Đền Sóc': 'ban-than/du-lich/ha-noi/soc-son/den-soc/index.md'
+          - 'Đền Phủ Thành Chương': 'ban-than/du-lich/ha-noi/soc-son/den-phu-thanh-chuong/index.md'
+        - 'Hoài Đức':
+          - 'Làng Dương Liễu': 'ban-than/du-lich/ha-noi/hoai-duc/duong-lieu/index.md'
+        - 'Chương Mỹ':
+          - 'Chùa Trầm': 'ban-than/du-lich/ha-noi/chuong-my/chua-tram/index.md'
+        - 'Gia Lâm': 'ban-than/du-lich/ha-noi/gia-lam/index.md'
+        - 'Long Biên': 'ban-than/du-lich/ha-noi/long-bien/index.md'
+        - 'Sơn Tây':
+          - 'Làng cổ Đường Lâm': 'ban-than/du-lich/ha-noi/son-tay/lang-co-duong-lam/index.md'
+        - 'Trung tâm thành phố': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/index.md'
+      - 'Bắc Ninh':
+        - 'Trang chủ': 'ban-than/du-lich/bac-ninh/index.md'
+        - 'Chùa Phật Tích': 'ban-than/du-lich/bac-ninh/chua-phat-tich/index.md'
+        - 'Chợ Từ Sơn': 'ban-than/du-lich/bac-ninh/cho-tu-son/index.md'
+        - 'Chùa Lý Thái Tổ': 'ban-than/du-lich/bac-ninh/chua-ly-thai-to/index.md'
+      - 'Bắc Giang':
+        - 'ban-than/du-lich/bac-giang/index.md'
+        - 'Đền Xương Giang': 'ban-than/du-lich/bac-giang/den-xuong-giang/index.md'
+        - 'Làng Thổ Hà': 'ban-than/du-lich/bac-giang/lang-tho-ha/index.md'
+    - 'Bài viết':
+      - 'Nhận thức, nhận ngủ': 'ban-than/blog/nhan-thuc-nhan-ngu.md'
+      - 'Dùng voz khá thích': 'ban-than/blog/dung-voz-kha-thich.md'
+      - 'Tôi viết sách': 'ban-than/blog/toi-viet-sach.md'
+  - 'Học ngoại ngữ':
+    - 'Tiếng Anh': 'tieng-anh/index.md'
+    - 'Tiếng Nhật':
+      - 'N5': 'tieng-nhat/n5.md'
+      - 'N4': 'tieng-nhat/n4.md'
+      - 'N3': 'tieng-nhat/n3.md'
+      - 'N2': 'tieng-nhat/n2.md'
+      - 'N1': 'tieng-nhat/n1.md'
+  - 'Lập trình & Sử dụng công cụ':
     - 'HTML/CSS': 
       - 'HTML': 'lap-trinh/html-css/html.md'
       - 'CSS': 'lap-trinh/html-css/css.md'
@@ -40,13 +77,14 @@ nav:
       - 'Giới thiệu Reactive Programming với Reactor': 'lap-trinh/java/gioi-thieu-reactive-programming-voi-reactor.md'
       - 'Giới thiệu Reactor Core': 'lap-trinh/java/gioi-thieu-reactor-core.md'
       - 'Java 8: Optional': 'lap-trinh/java/java-8optional.md'
+      - 'Abstract Interface': 'lap-trinh/java/abstract-interface.md'
+      - 'Thread': 'lap-trinh/java/thread.md'
     - 'Spring Boot':
       - 'Trang chủ khóa học': 'lap-trinh/spring-boot/index.md'
       - 'Core':
         - 'Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled': 'lap-trinh/spring-boot/core1.md'
         - 'Giải thích Dependency Injection (DI) và IoC bằng Ngọc Trinh': 'lap-trinh/spring-boot/core2.md'
       - 'Spring Boot':
-        - 'Series làm chủ Spring Boot - Zero to Hero': 'lap-trinh/spring-boot/sb0.md'
         - 'Hướng dẫn @Component và @Autowired': 'lap-trinh/spring-boot/sb1.md'
         - '@Autowired - @Primary - @Qualifier': 'lap-trinh/spring-boot/sb2.md'
         - 'Spring Bean Life Cycle + @PostConstruct và @PreDestroy': 'lap-trinh/spring-boot/sb3.md'
@@ -89,9 +127,9 @@ nav:
       - 'Redis': 'lap-trinh/spring-boot/redis.md'
     - 'Rust':
       - 'lap-trinh/rust/thuat-toan.md'
-      - lap-trinh/rust/command-line.md
-      - lap-trinh/rust/he-thong.md
-      - lap-trinh/rust/internet.md
+      - 'lap-trinh/rust/command-line.md'
+      - 'lap-trinh/rust/he-thong.md'
+      - 'lap-trinh/rust/internet.md'
       - 'Tệp':
         - lap-trinh/rust/tep/epub.md
         - lap-trinh/rust/tep/git.md
@@ -103,10 +141,9 @@ nav:
       - 'lap-trinh/react/bai-3.md'
     - 'TypeScript':
       - 'lap-trinh/ts/bai-1.md'
-    - 'Bash':
-      - 'lap-trinh/bash/tong-hop.md'
-    - 'Regex':
-      - 'lap-trinh/regex/tong-hop.md'
+    - 'Bash': 'lap-trinh/bash/tong-hop.md'
+    - 'Regex': 'lap-trinh/regex/tong-hop.md'
+    - 'yt-dlp': 'lap-trinh/khac/yt-dlp.md'
   - 'Khoa học máy tính':
     - 'Lập trình':
       - 'khoa-hoc-may-tinh/1-lap-trinh/01_functional_programming.md'
@@ -131,7 +168,9 @@ nav:
     - 'Kiến trúc máy tính':
       - 'khoa-hoc-may-tinh/2-kien-truc-may-tinh/1-bits-bytes.md'
     - 'Cấu trúc dữ liệu & Giải thuật':
-      - 'khoa-hoc-may-tinh/3-ctdl-gt/1-on-tap-co-ban.md'
+      - 'khoa-hoc-may-tinh/3-ctdl-gt/bai-1.md'
+      - 'khoa-hoc-may-tinh/3-ctdl-gt/bai-2.md'
+      - 'khoa-hoc-may-tinh/3-ctdl-gt/bai-3.md'
     - 'Toán':
       - 'khoa-hoc-may-tinh/4-toan/1-bat-dau.md'
     - 'Hệ điều hành':
@@ -170,6 +209,9 @@ nav:
       - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s28.md'
       - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s29.md'
       - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s30.md'
+    - 'Mạng máy tính':
+      - 'khoa-hoc-may-tinh/7-mang-may-tinh/bai-1.md'
+      - 'khoa-hoc-may-tinh/7-mang-may-tinh/bai-2.md'
   - 'Tác phẩm':
     - 'Văn học': 'tac-pham/sach.md'
     - 'Anime': 'tac-pham/anime.md'

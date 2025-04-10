@@ -1,0 +1,15 @@
+# Dùng voz khá thích
+
+Mình đã không dùng Facebook (Khi mình nói "dùng" thì tức là khi mà lướt Newsfeed rồi doom-scroll hết vài tiếng cuộc đời) thì được gần 8 năm, rồi chuyển qua Reddit và gần đây (Khoảng đầu năm 2024) thì dùng Voz Forum.
+
+Mình khá thích Forums, bản thân các Subreddit (Các cộng đồng trên Reddit) cũng na ná các Forums nên dùng Reddit nó kiểu như là theo dõi được nhiều Forums cùng một lúc ấy :)) toàn chủ đề mình thích lẫn các chủ đề rất _niche_ mà ở trong nước chưa mấy nổi như litrpg, worldbuilding và khu đọc các tác phẩm như Dune chẳng hạn. Rồi mình cũng muốn tìm một thứ tương tự như vậy, và đã tìm được Voz.
+
+Được rồi, cần nhấn mạnh là Voz chuyên công nghệ. Từ "công nghệ" ở đây khá mơ hồ, nhưng bạn có thể hiểu là Voz có nhiều chủ đề từ phần mềm (các công cụ hỗ trợ siêu xịn được gợi ý) cho đến xây dựng server, self-host. Bản thân mình cũng không phải lập trình viên nma khá mê đọc mấy thread liên quan đến self-host rồi thành ra học được thêm mấy cái khá là không hữu ích trong cuộc sống của mình, nhưng nó hay nên okeeeyyyyy.
+
+voz đáp ứng được những nội dung _niche_ mà mình muốn có, hết. Mình cũng học được rất nhiều cách sử dụng phần mềm và cộng đồng trên đấy cũng là những người dùng _chuyên nghiệp_ (Tức là họ giỏi hơn mình khá nhiều). Mình cũng tìm gợi ý sách trên _Những cuốn sách hay mà thanh niên nên đọc_, thanks ông bà nào đã gợi ý cuốn Thất lạc cõi người của Osamu.
+
+Một điều khá thích ở voz là người dùng trên này thường từ 16 tuổi trở lên, thường là các ông anh ông chú (chắc có các cô ở các khu như du lịch hay chăm sóc làm đẹp nữa) với kiểu cũng hay xàm về mấy sở thích linh tinh nên cũng vui với học được những cái bổ ích cho việc học của cá nhân mình.
+
+Khi mình dùng Reddit + Voz + tumblr + tve_4u một thời gian và quay về dùng fb hoặc dùng thử TikTok (Vì một người làm nội dung mình thích xem bảo là ảnh làm khá nhiều video trên TikTok) thì thấy là ừm, khá phổ thông. Từ phổ thông ở đây mang tính châm biếm, _bạn không thể tự chọn được điều gì, và chấp nhận để thuật toán chọn thay bạn_. Và nội dung trên các nền tảng đó phần lớn (chắc đến 90%) là *rác*. Dù không phải nội dung nào trên Voz Forum cũng là tuyệt, nhưng nếu xét về tỉ lệ, mình nghĩ là yep, khá là DISPROPORTIONATE. Nhưng mình vẫn nghĩ Facebook có khá nhiều thứ tuyệt, ít nhất là mình đã ăn cắp khá nhiều nội dung hay bằng Tiếng Việt trên nền tảng này bằng cách dùng `site:facebook.com [nội dung cần tìm]`.
+
+Sẽ có cả đống người nói với bạn là: "Mình thấy Facebook cũng có ích mà, chỉ cần biết chọn lọc thôi" thì khó để _chọn lọc_ lắm. Nên nếu bạn không thực sự cần Facebook (Trường mình đưa khá nhiều thông tin quan trọng lên Facebook) thì đọc quyển Smart Phone, Dumb Phone (Nhớ đọc kĩ, đây là một bình luận tiêu cực về quyển này: [https://old.reddit.com/.../does_smart_phone_dumb_phone.../](https://old.reddit.com/r/nosurf/comments/pegljh/does_smart_phone_dumb_phone_get_better/))

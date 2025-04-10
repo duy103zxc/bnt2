@@ -1,13 +1,4 @@
-[SB2] @Autowired - @Primary - @Qualifier
-========================================
-
-- Giới thiệu
-- Cài đặt
-- # Cách inject Bean của Spring
-- Vấn đề của @Autowired
-- @Primary
-- @Qualifier
-- Kết
+# @Autowired - @Primary - @Qualifier
 
 ### **Giới thiệu**
 
