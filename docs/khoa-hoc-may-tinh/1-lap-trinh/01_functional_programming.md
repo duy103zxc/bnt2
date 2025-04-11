@@ -1,3 +1,4 @@
+# Lập trình hướng chương trình
 Bài viết sẽ tập trung vào liệt kê các yếu tố cơ bản cho một ngôn ngữ.
 ### Những yếu tố cơ bản cho một ngôn ngữ lập trình
 

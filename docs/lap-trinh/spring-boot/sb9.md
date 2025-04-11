@@ -1,53 +1,18 @@
-[SB9] Giải thích cách Thymeleaf vận hành + Expression + Demo Full
-========================================================================
-
-- Giới thiệu
-- Thymeleaf
-- Cú pháp
-- Model & View Trong Spring Boot
-- ${...} \- Variables Expressions
-- \*{...} \- Variables Expressions on selections
-- #{...} \- Message Expression
-- @{...} \- URL Expression
-- Demo minh họa
-- Cấu hình thymeleaf
-- Chức năng messages
-- Static & Templates
-- index.html
-- Chạy thử 1.
-- Thêm @Controller cho path /profile
-- Chạy thử lần 2.
-- Kết
-
-### **Giới thiệu**
-
-Trong bài trước, mình đã đề cập với các bạn kiến trúc web của **Spring Boot** và giới thiệu chức năng của `@Controller`.
-
-1. [📞SB8] Tạo Web Helloworld với @Controller + Thymeleaf
-
-Trong bài này, chúng ta sẽ tìm hiểu chi tiết hơn về **Thymeleaf** và sử dụng nó để làm một trang web đơn giản.
+# Giải thích cách Thymeleaf vận hành + Expression + Demo Full
 
 ### **Thymeleaf**
 
-**Thymeleaf** là một Java Template Engine. Có nhiệm vụ xử lý và generate ra các file HTML, XML, v.v..
-
-Các file HMTL do Thymeleaf tạo ra là nhờ kết hợp **dữ liệu** và **template + quy tắc** để sinh ra một file HTML chứa đầy đủ thông tin.
-
-!image
-
-Việc của bạn là cung cấp dữ liệu và quy định **template** như nào, còn việc dùng các thông tin đó để render ra HTML sẽ do **Thymeleaf** giải quyết.
+**Thymeleaf** là một Java Template Engine. Có nhiệm vụ xử lý và generate ra các file HTML, XML, v.v.. Các file HMTL do Thymeleaf tạo ra là nhờ kết hợp **dữ liệu** và **template + quy tắc** để sinh ra một file HTML chứa đầy đủ thông tin. Việc của bạn là cung cấp dữ liệu và quy định **template** như nào, còn việc dùng các thông tin đó để render ra HTML sẽ do **Thymeleaf** giải quyết.
 
 ### **Cú pháp**
 
 Cú pháp của **Thymeleaf** sẽ là một **attributes** (Thuộc tính) của thẻ HTML và bắt đầu bằng chữ `th:`.
 
-Với cách tiếp cận này, bạn sẽ chỉ cần sử dụng các thẻ HTML cơ bản đã biết mà không cần bổ sung thêm syntax hay thẻ mới như JSP truyền thống.
-
 Ví dụ:
 
 Để truyền dữ liệu từ biến `name` trong Java vào một thẻ `H1` của HTML.
 
-```
+```html
 <h1 th:text="${name}"></h1>
 ```
 
@@ -55,7 +20,7 @@ Chúng ta viết thẻ H1 như bình thường, nhưng không chứa bất cứ 
 
 Kết quả khi render ra:
 
-```
+```java
 // Giả sử String name = "loda"
 <h1>Loda</h1>
 ```

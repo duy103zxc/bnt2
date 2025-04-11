@@ -1,81 +1,17 @@
-[SB3] Spring Bean Life Cycle + @PostConstruct và @PreDestroy
-=============================================================
+# Spring Bean Life Cycle + @PostConstruct và @PreDestroy
 
-- Giới thiệu
-- Cài đặt
-- @PostConstruct
-- @PreDestroy
-- Bean Life Cycle
-- Ví dụ
-- Ý nghĩa.
-- Kết
+Tìm hiểu về vòng đời của Bean
 
-### **Giới thiệu**
+### @PostConstruct
 
-Trong các bài trước, các bạn đã hiểu các khái niệm cơ bản về `Bean` và cách inject nó trong Spring Boot bằng `@Component` + `@Autowired`
+`@PostConstruct` được đánh dấu trên một method duy nhất bên trong `Bean`. 
 
-1. [📖SB1] Hướng dẫn @Component và @Autowired
-2. [☎️SB2] @Autowired - @Primary - @Qualifier
-
-Hôm nay chúng ta sẽ tìm hiểu kỹ hơn về vòng đời của `Bean`.
-
-### **Cài đặt**
-
-```
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
-    <packaging>pom</packaging>
-    <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.0.5.RELEASE</version>
-        <relativePath /> <!-- lookup parent from repository -->
-    </parent>
-    <groupId>me.loda.spring</groupId>
-    <artifactId>spring-boot-learning</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-learning</name>
-    <description>Everything about Spring Boot</description>
-
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
-
-    <dependencies>
-
-        <!--spring mvc, rest-->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-    </dependencies>
-
-    <build>
-        <plugins>
-        <plugin>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-maven-plugin</artifactId>
-        </plugin>
-        </plugins>
-    </build>
-
-</project>
-```
-
-Cấu trúc thư mục:
-
-!image
-
-### **@PostConstruct**
-
-`@PostConstruct` được đánh dấu trên một method duy nhất bên trong `Bean`. `IoC Container` hoặc `ApplicationContext` sẽ gọi hàm này **sau khi** một `Bean` được tạo ra và quản lý.
+`IoC Container` hoặc `ApplicationContext` sẽ gọi hàm này sau khi một `Bean` được tạo ra và quản lý.
 
 ```
 @Component
 public class Girl {
-
+    
     @PostConstruct
     public void postConstruct(){
         System.out.println("\t>> Đối tượng Girl sau khi khởi tạo xong sẽ chạy hàm này");
@@ -83,9 +19,11 @@ public class Girl {
 }
 ```
 
-### **@PreDestroy**
+### @PreDestroy
 
-`@PreDestroy` được đánh dấu trên một method duy nhất bên trong `Bean`. `IoC Container` hoặc `ApplicationContext` sẽ gọi hàm này **trước khi** một `Bean` bị xóa hoặc không được quản lý nữa.
+`@PreDestroy` được đánh dấu trên một method duy nhất bên trong `Bean`. 
+
+`IoC Container` hoặc `ApplicationContext` sẽ gọi hàm này trước khi một `Bean` bị xóa hoặc không được quản lý nữa.
 
 ```
 @Component
@@ -98,15 +36,15 @@ public class Girl {
 }
 ```
 
-### **Bean Life Cycle**
+### Bean Life Cycle
 
-**Spring Boot** từ thời điểm chạy lần đầu tới khi _shutdown_ thì các `Bean` nó quản lý sẽ có một vòng đời được biểu diễn như ảnh dưới đây:
+Spring Boot từ thời điểm chạy lần đầu tới khi _shutdown_ thì các `Bean` nó quản lý sẽ có một vòng đời được biểu diễn như ảnh dưới đây.
 
-!image
+![](https://images.viblo.asia/2380e7ca-0b97-4be3-9054-27430b29e150.jpg)
 
 Nhìn có vẻ loằng ngoằng, trong series căn bản này, bạn có lẽ sẽ chỉ cần hiểu như sau:
 
-1. Khi `IoC Container` (`ApplicationContext`) tìm thấy một Bean cần quản lý, nó sẽ khởi tạo bằng `Constructor`
+1. Khi `IoC Container` (`ApplicationContext`) tìm thấy một Bean cần quản lý, nó sẽ khởi tạo bằng `Constructor`.
 2. inject dependencies vào `Bean` bằng Setter, và thực hiện các quá trình cài đặt khác vào `Bean` như `setBeanName`, `setBeanClassLoader`, v.v..
 3. Hàm đánh dấu `@PostConstruct` được gọi
 4. Tiền xử lý sau khi `@PostConstruct` được gọi.
@@ -114,11 +52,11 @@ Nhìn có vẻ loằng ngoằng, trong series căn bản này, bạn có lẽ s�
 6. Nếu `IoC Container` không quản lý bean nữa hoặc bị shutdown nó sẽ gọi hàm `@PreDestroy` trong `Bean`
 7. Xóa `Bean`.
 
-### **Ví dụ**
+### Ví dụ
 
 Chúng ta tạo ra class `Girl` bao gồm:
 
-```
+```java
 import org.springframework.stereotype.Component;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -140,7 +78,7 @@ public class Girl {
 
 In ra màn hình quá Spring Boot chạy lần đầu cho tới khi shutdown:
 
-```
+```java
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
@@ -153,12 +91,9 @@ public class App {
         System.out.println("> Trước khi IoC Container được khởi tạo");
         ApplicationContext context = SpringApplication.run(App.class, args);
         System.out.println("> Sau khi IoC Container được khởi tạo");
-
         // Khi chạy xong, lúc này context sẽ chứa các Bean có đánh
         // dấu @Component.
-
         Girl girl = context.getBean(Girl.class);
-
         System.out.println("> Trước khi IoC Container destroy Girl");
         ((ConfigurableApplicationContext) context).getBeanFactory().destroyBean(girl);
         System.out.println("> Sau khi IoC Container destroy Girl");
@@ -179,21 +114,10 @@ Output:
 > Sau khi IoC Container destroy Girl
 ```
 
-Bạn sẽ thấy dòng _"Trước khi IoC Container được khởi tạo"_ được chạy 2 lần.
+Bạn sẽ thấy dòng _"Trước khi IoC Container được khởi tạo"_ được chạy 2 lần. Điều này xảy ra bởi vì hàm App.main(args) được chạy 2 lần!
 
-> Điều này xảy ra bởi vì hàm App.main(args) được chạy 2 lần!
+Lần đầu là do chúng ta chạy. Lần thứ hai là do Spring Boot chạy sau khi nó được gọi `SpringApplication.run(App.class, args)`. Đây là lúc mà IoC Container (`ApplicationContext`) được tạo ra và đi tìm `Bean`.
 
-Lần đầu là do chúng ta chạy.
-
-Lần thứ hai là do **Spring Boot** chạy sau khi nó được gọi `SpringApplication.run(App.class, args)`. Đây là lúc mà **IoC Container** (`ApplicationContext`) được tạo ra và đi tìm `Bean`.
-
-### **Ý nghĩa.**
+### Ý nghĩa.
 
 `@PostConstruct` và `@PreDestroy` là 2 Annotation cực kỳ ý nghĩa, nếu bạn nắm được vòng đời của một `Bean`, bạn có thể tận dụng nó để làm các nhiệm vụ riêng như setting, thêm giá trị mặc định trong thuộc tính sau khi tạo, xóa dữ liệu trước khi xóa, v.v.. Rất nhiều chức năng khác tùy theo nhu cầu.
-
-### **Kết**
-
-💁 Nếu có, toàn bộ project / code mẫu được lưu trữ tại **GitHub**
-
-🌟 Đây là một bài viết trong Series **Làm chủ Spring Boot – Zero to Hero**
-
