@@ -45,6 +45,7 @@ nav:
   - 'Học ngoại ngữ':
     - 'Tiếng Anh': 'tieng-anh/index.md'
     - 'Tiếng Nhật':
+      - 'N6': 'tieng-nhat/n6.md'
       - 'N5': 'tieng-nhat/n5.md'
       - 'N4': 'tieng-nhat/n4.md'
       - 'N3': 'tieng-nhat/n3.md'
