@@ -10,9 +10,11 @@ nav:
   - 'Đọc sách':
     - 'Bộ sách':
       - 'Nguyễn Duy Cần': 'hoc-hoi/hoc-gia/thu-giang/index.md'
-      - 'Nguyễn Hiến Lê': 'hoc-hoi/hoc-gia/nguyen-hien-le.md'
+      - 'Nguyễn Hiến Lê': 'hoc-hoi/hoc-gia/nguyen-hien-le/index.md'
     - 'Sách':
-      - 'Exit Modernity': 'hoc-hoi/bai-viet/chay-tron-hien-dai.md'
+      - 'Nghiện mềm': 'hoc-hoi/sach/nghien-mem.md'
+      - 'Rational Recovery': 'hoc-hoi/sach/rational-recovery.md'
+      - 'Chạy trốn hiện đại': 'hoc-hoi/sach/chay-tron-hien-dai.md'
   - 'Nhật ký':
     - 'Du lịch':
       - 'Hà Nội':
