@@ -7,13 +7,13 @@ repo_url: https://github.com/duy103zxc/bnt2
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Học điều mới từ':
-    - 'Học giả':
-      - 'Thu Giang - Nguyễn Duy Cần': 'hoc-hoi/hoc-gia/thu-giang/index.md'
+  - 'Đọc sách':
+    - 'Bộ sách':
+      - 'Nguyễn Duy Cần': 'hoc-hoi/hoc-gia/thu-giang/index.md'
       - 'Nguyễn Hiến Lê': 'hoc-hoi/hoc-gia/nguyen-hien-le.md'
     - 'Sách':
       - 'Exit Modernity': 'hoc-hoi/bai-viet/chay-tron-hien-dai.md'
-  - 'Cá nhân':
+  - 'Nhật ký':
     - 'Du lịch':
       - 'Hà Nội':
         - 'Mở đầu': 'ban-than/du-lich/ha-noi/index.md'
@@ -28,7 +28,11 @@ nav:
         - 'Long Biên': 'ban-than/du-lich/ha-noi/long-bien/index.md'
         - 'Sơn Tây':
           - 'Làng cổ Đường Lâm': 'ban-than/du-lich/ha-noi/son-tay/lang-co-duong-lam/index.md'
-        - 'Trung tâm thành phố': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/index.md'
+        - 'Trung tâm thành phố': 
+          - 'Trang chủ': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/index.md'
+          - 'Văn Miếu': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/van-mieu/index.md'
+          - 'Bảo tàng Hà Nội': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/bao-tang-ha-noi/index.md'
+          - 'Không biết chỗ nào': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/khong-nho-o-dau/index.md'
       - 'Bắc Ninh':
         - 'Trang chủ': 'ban-than/du-lich/bac-ninh/index.md'
         - 'Chùa Phật Tích': 'ban-than/du-lich/bac-ninh/chua-phat-tich/index.md'
@@ -219,7 +223,8 @@ nav:
     - 'Văn học': 'tac-pham/sach.md'
     - 'Anime': 'tac-pham/anime.md'
     - 'Manga': 'tac-pham/manga.md'
-  - 'About': 'about.md'
+  - 'Thông tin thêm':
+    - 'Về cái trang này': 'about.md'
 
 
 
