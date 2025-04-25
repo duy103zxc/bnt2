@@ -1,55 +1,58 @@
-site_name: Một trang đần đần của duykhanh471
-site_description: Tôi rảnh nên ném hết trải nghiệm về học tập và một số khác lên đây
+site_name: duykhanh471 tự học
+site_description: Tôi học từ sách và Internet
 site_author: duykhanh471  
 site_url: https://duy103zxc.github.io/bnt2
-repo_name: Chỉnh sửa các thứ
+repo_name: Tạo PR tại đây
 repo_url: https://github.com/duy103zxc/bnt2
 
 nav:
   - 'Trang chủ': 'index.md'
   - 'Đọc sách':
-    - 'Bộ sách':
-      - 'Nguyễn Duy Cần': 'hoc-hoi/hoc-gia/thu-giang/index.md'
-      - 'Nguyễn Hiến Lê': 'hoc-hoi/hoc-gia/nguyen-hien-le/index.md'
-    - 'Sách':
+    - 'Nguyễn Duy Cần': 
+      - 'Trang chủ': 'hoc-hoi/hoc-gia/thu-giang/index.md'
+    - 'Nguyễn Hiến Lê': 
+      - 'Trang chủ': 'hoc-hoi/hoc-gia/nguyen-hien-le/index.md'
+    - 'Sách khác':
+      - 'Nghiện mềm': 'hoc-hoi/sach/index.md'
       - 'Nghiện mềm': 'hoc-hoi/sach/nghien-mem.md'
       - 'Rational Recovery': 'hoc-hoi/sach/rational-recovery.md'
       - 'Chạy trốn hiện đại': 'hoc-hoi/sach/chay-tron-hien-dai.md'
-  - 'Nhật ký':
-    - 'Du lịch':
-      - 'Hà Nội':
-        - 'Mở đầu': 'ban-than/du-lich/ha-noi/index.md'
-        - 'Sóc Sơn':
-          - 'Đền Sóc': 'ban-than/du-lich/ha-noi/soc-son/den-soc/index.md'
-          - 'Đền Phủ Thành Chương': 'ban-than/du-lich/ha-noi/soc-son/den-phu-thanh-chuong/index.md'
-        - 'Hoài Đức':
-          - 'Làng Dương Liễu': 'ban-than/du-lich/ha-noi/hoai-duc/duong-lieu/index.md'
-        - 'Chương Mỹ':
-          - 'Chùa Trầm': 'ban-than/du-lich/ha-noi/chuong-my/chua-tram/index.md'
-        - 'Gia Lâm': 'ban-than/du-lich/ha-noi/gia-lam/index.md'
-        - 'Long Biên': 'ban-than/du-lich/ha-noi/long-bien/index.md'
-        - 'Sơn Tây':
-          - 'Làng cổ Đường Lâm': 'ban-than/du-lich/ha-noi/son-tay/lang-co-duong-lam/index.md'
-        - 'Trung tâm thành phố': 
-          - 'Trang chủ': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/index.md'
-          - 'Văn Miếu': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/van-mieu/index.md'
-          - 'Bảo tàng Hà Nội': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/bao-tang-ha-noi/index.md'
-          - 'Không biết chỗ nào': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/khong-nho-o-dau/index.md'
-      - 'Bắc Ninh':
-        - 'Trang chủ': 'ban-than/du-lich/bac-ninh/index.md'
-        - 'Chùa Phật Tích': 'ban-than/du-lich/bac-ninh/chua-phat-tich/index.md'
-        - 'Chợ Từ Sơn': 'ban-than/du-lich/bac-ninh/cho-tu-son/index.md'
-        - 'Chùa Lý Thái Tổ': 'ban-than/du-lich/bac-ninh/chua-ly-thai-to/index.md'
-      - 'Bắc Giang':
-        - 'ban-than/du-lich/bac-giang/index.md'
-        - 'Đền Xương Giang': 'ban-than/du-lich/bac-giang/den-xuong-giang/index.md'
-        - 'Làng Thổ Hà': 'ban-than/du-lich/bac-giang/lang-tho-ha/index.md'
-    - 'Bài viết':
-      - 'Nhận thức, nhận ngủ': 'ban-than/blog/nhan-thuc-nhan-ngu.md'
-      - 'Dùng voz khá thích': 'ban-than/blog/dung-voz-kha-thich.md'
-      - 'Tôi viết sách': 'ban-than/blog/toi-viet-sach.md'
+  - 'Du lịch':
+    - 'Hà Nội':
+      - 'Mở đầu': 'ban-than/du-lich/ha-noi/index.md'
+      - 'Sóc Sơn':
+        - 'Đền Sóc': 'ban-than/du-lich/ha-noi/soc-son/den-soc/index.md'
+        - 'Đền Phủ Thành Chương': 'ban-than/du-lich/ha-noi/soc-son/den-phu-thanh-chuong/index.md'
+      - 'Hoài Đức':
+        - 'Làng Dương Liễu': 'ban-than/du-lich/ha-noi/hoai-duc/duong-lieu/index.md'
+      - 'Chương Mỹ':
+        - 'Chùa Trầm': 'ban-than/du-lich/ha-noi/chuong-my/chua-tram/index.md'
+      - 'Gia Lâm': 'ban-than/du-lich/ha-noi/gia-lam/index.md'
+      - 'Long Biên': 'ban-than/du-lich/ha-noi/long-bien/index.md'
+      - 'Sơn Tây':
+        - 'Làng cổ Đường Lâm': 'ban-than/du-lich/ha-noi/son-tay/lang-co-duong-lam/index.md'
+      - 'Trung tâm thành phố': 
+        - 'Trang chủ': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/index.md'
+        - 'Văn Miếu': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/van-mieu/index.md'
+        - 'Bảo tàng Hà Nội': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/bao-tang-ha-noi/index.md'
+        - 'Không biết chỗ nào': 'ban-than/du-lich/ha-noi/trung-tam-thanh-pho/khong-nho-o-dau/index.md'
+    - 'Bắc Ninh':
+      - 'Trang chủ': 'ban-than/du-lich/bac-ninh/index.md'
+      - 'Chùa Phật Tích': 'ban-than/du-lich/bac-ninh/chua-phat-tich/index.md'
+      - 'Chợ Từ Sơn': 'ban-than/du-lich/bac-ninh/cho-tu-son/index.md'
+      - 'Chùa Lý Thái Tổ': 'ban-than/du-lich/bac-ninh/chua-ly-thai-to/index.md'
+    - 'Bắc Giang':
+      - 'ban-than/du-lich/bac-giang/index.md'
+      - 'Đền Xương Giang': 'ban-than/du-lich/bac-giang/den-xuong-giang/index.md'
+      - 'Làng Thổ Hà': 'ban-than/du-lich/bac-giang/lang-tho-ha/index.md'
+  - 'Bài viết':
+    - 'Nhận thức, nhận ngủ': 'ban-than/blog/nhan-thuc-nhan-ngu.md'
+    - 'Dùng voz khá thích': 'ban-than/blog/dung-voz-kha-thich.md'
+    - 'Tôi viết sách': 'ban-than/blog/toi-viet-sach.md'
   - 'Học ngoại ngữ':
-    - 'Tiếng Anh': 'tieng-anh/index.md'
+    - 'Tiếng Anh': 
+      - 'Định hướng': 'tieng-anh/index.md'   
+      - 'Ngữ pháp': 'tieng-anh/ngu-phap.md'
     - 'Tiếng Nhật':
       - 'N6': 'tieng-nhat/n6.md'
       - 'N5': 'tieng-nhat/n5.md'
@@ -57,174 +60,11 @@ nav:
       - 'N3': 'tieng-nhat/n3.md'
       - 'N2': 'tieng-nhat/n2.md'
       - 'N1': 'tieng-nhat/n1.md'
-  - 'Lập trình & Sử dụng công cụ':
-    - 'HTML/CSS': 
-      - 'HTML': 'lap-trinh/html-css/html.md'
-      - 'CSS': 'lap-trinh/html-css/css.md'
-    - 'JS': 
-      - 'lap-trinh/js/co-ban.md'
-      - 'lap-trinh/js/array.md'
-      - 'lap-trinh/js/ngay-gio.md'
-      - 'lap-trinh/js/string.md'
-      - 'lap-trinh/js/object.md'
-    - 'Java':
-      - 'Trang chủ khóa học': 'lap-trinh/java/index.md'
-      - 'Giới thiệu Java, JVM và Hellooo world': 'lap-trinh/java/1.md'
-      - 'Biến, phạm vi, kiểu dữ liệu, toán tử trong Java': 'lap-trinh/java/2.md'
-      - 'Hàm và câu lệnh điều kiện': 'lap-trinh/java/3.md'
-      - 'Nhập xuất dữ liệu trong Java': 'lap-trinh/java/4.md'
-      - 'Vì sao nên sử dụng StringBuffer': 'lap-trinh/java/5.md'
-      - 'Hướng dẫn Java Reflection': 'lap-trinh/java/6.md'
-      - 'Hướng dẫn tự tạo một Annotations': 'lap-trinh/java/7.md'
-      - 'Functional Interfaces & Lambda Expressions cực dễ hiểu': 'lap-trinh/java/8.md'
-      - 'Hướng dẫn Stream API': 'lap-trinh/java/9.md'
-      - 'Khái niệm ThreadPool và Executor trong Java': 'lap-trinh/java/10.md'
-      - 'ThreadPoolExecutor và nguyên tắc quản lý pool size': 'lap-trinh/java/11.md'
-      - 'Giới thiệu Reactive Programming với Reactor': 'lap-trinh/java/12.md'
-      - 'Giới thiệu Reactor Core': 'lap-trinh/java/13.md'
-      - 'Abstract Interface': 'lap-trinh/java/14.md'
-      - 'Thread': 'lap-trinh/java/15.md'
-      - 'Optional': 'lap-trinh/java/16.md'
-    - 'Spring Boot':
-      - 'Trang chủ khóa học': 'lap-trinh/spring-boot/index.md'
-      - 'Core':
-        - 'Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled': 'lap-trinh/spring-boot/core1.md'
-        - 'Giải thích Dependency Injection (DI) và IoC': 'lap-trinh/spring-boot/core2.md'
-      - 'Spring Boot':
-        - 'Hướng dẫn @Component và @Autowired': 'lap-trinh/spring-boot/sb1.md'
-        - '@Autowired - @Primary - @Qualifier': 'lap-trinh/spring-boot/sb2.md'
-        - 'Spring Bean Life Cycle + @PostConstruct và @PreDestroy': 'lap-trinh/spring-boot/sb3.md'
-        - '@Component vs @Service vs @Repository': 'lap-trinh/spring-boot/sb4.md'
-        - 'Component Scan là gì?': 'lap-trinh/spring-boot/sb5.md'
-        - '@Configuration và @Bean': 'lap-trinh/spring-boot/sb6.md'
-        - 'Spring Boot Application Config và @Value': 'lap-trinh/spring-boot/sb7.md'
-        - 'Tạo Web Helloworld với @Controller + Thymeleaf': 'lap-trinh/spring-boot/sb8.md'
-        - 'Giải thích cách Thymeleaf vận hành + Expression + Demo Full': 'lap-trinh/spring-boot/sb9.md'
-        - '@RequestMapping + @PostMapping + @ModelAttribute + @RequestParam + Web To-Do với Thymeleaf': 'lap-trinh/spring-boot/sb10.md'
-        - 'Hướng dẫn Spring Boot JPA + MySQL': 'lap-trinh/spring-boot/sb11.md'
-        - 'Spring JPA Method + @Query': 'lap-trinh/spring-boot/sb12.md'
-        - 'Chi tiết Spring Boot + Thymeleaf + MySQL + i18n + Web Demo': 'lap-trinh/spring-boot/sb13.md'
-        - 'Restful API + @RestController + @PathVariable + @RequestBody': 'lap-trinh/spring-boot/sb14.md'
-        - 'Exception Handling @ExceptionHandler + @RestControllerAdvice / @ControllerAdvice + @ResponseStatus': 'lap-trinh/spring-boot/sb15.md'
-        - 'Hướng dẫn sử dụng @ConfigurationPropertie': 'lap-trinh/spring-boot/sb16.md'
-        - 'Chạy nhiều môi trường với Spring Profile': 'lap-trinh/spring-boot/sb17.md'
-        - 'Hướng dẫn chi tiết Test Spring Boot': 'lap-trinh/spring-boot/sb18.md'
-        - 'Hướng dẫn chi tiết Test Spring Boot (Phần 2)': 'lap-trinh/spring-boot/sb19.md'
-        - 'Hướng dẫn toàn tập Mockito': 'lap-trinh/spring-boot/sb20.md'
-        - 'Hướng dẫn tạo Bean có điều kiện với @Conditional': 'lap-trinh/spring-boot/sb21.md'
-        - 'Hướng dẫn tự tạo custom @Conditional': 'lap-trinh/spring-boot/sb22.md'
-        - 'Xử lý sự kiện với @EventListener + @Async': 'lap-trinh/spring-boot/sb23.md'
-        - 'RESTful API Document Tạo với Spring Boot + Swagger': 'lap-trinh/spring-boot/sb24.md'
-        - 'RESTful API Document với Spring Boot + OpenApi 3.0': 'lap-trinh/spring-boot/sb25.md'
-      - 'Jpa':
-        - '「Jpa」Hibernate là gì?': 'lap-trinh/spring-boot/jpa1.md'
-        - '「Jpa」Hướng dẫn sử dụng Specification (Phần 1)': 'lap-trinh/spring-boot/jpa2.md'
-        - '「Jpa」Hướng dẫn sử dụng @OneToOne': 'lap-trinh/spring-boot/jpa3.md'
-        - '「Jpa」@OneToMany và @ManyToOne': 'lap-trinh/spring-boot/jpa4.md'
-        - '「Jpa」Hướng dẫn @ManyToMany': 'lap-trinh/spring-boot/jpa5.md'
-        - '「Jpa」Hướng dẫn Query phân trang bằng Pageable (Phần 1)': 'lap-trinh/spring-boot/jpa6.md'
-        - '「Jpa」Hướng dẫn sử dụng Criteria API trong Hibernate': 'lap-trinh/spring-boot/jpa7.md'
-        - '「Jpa」Hướng dẫn sử dụng Criteria API trong Hibernate (Phần 2)': 'lap-trinh/spring-boot/jpa8.md'
-        - '「Jpa」Hướng dẫn tự tạo Validator để kiểm tra Model & Entity': 'lap-trinh/spring-boot/jpa9.md'
-      - 'Spring Security':
-        - '「SS」Hướng dẫn Spring Security cơ bản, dễ hiểu': 'lap-trinh/spring-boot/ss1.md'
-        - '「SS」Hướng dẫn Spring Security + Jpa Hibernate': 'lap-trinh/spring-boot/ss2.md'
-        - '「SS」Hướng dẫn Spring Security + JWT (Json Web Token) + Hibernate': 'lap-trinh/spring-boot/ss3.md'
-      - 'Redis': 'lap-trinh/spring-boot/redis.md'
-    - 'Rust':
-      - 'lap-trinh/rust/thuat-toan.md'
-      - 'lap-trinh/rust/command-line.md'
-      - 'lap-trinh/rust/he-thong.md'
-      - 'lap-trinh/rust/internet.md'
-      - 'Tệp':
-        - lap-trinh/rust/tep/epub.md
-        - lap-trinh/rust/tep/git.md
-        - lap-trinh/rust/tep/html.md
-        - lap-trinh/rust/tep/rss.md
-    - 'React':
-      - 'lap-trinh/react/bai-1.md'
-      - 'lap-trinh/react/bai-2.md'
-      - 'lap-trinh/react/bai-3.md'
-    - 'TypeScript':
-      - 'lap-trinh/ts/bai-1.md'
-    - 'Bash': 'lap-trinh/bash/tong-hop.md'
-    - 'Regex': 'lap-trinh/regex/tong-hop.md'
-    - 'yt-dlp': 'lap-trinh/khac/yt-dlp.md'
-  - 'Khoa học máy tính':
-    - 'Lập trình':
-      - 'khoa-hoc-may-tinh/1-lap-trinh/01.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/01.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/02.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/03.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/04.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/05.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/06.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/07.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/08.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/09.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/10.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/11.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/12.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/13.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/14.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/15.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/16.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/s1.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/s2.md'
-      - 'khoa-hoc-may-tinh/1-lap-trinh/s3.md'
-    - 'Kiến trúc máy tính':
-      - 'khoa-hoc-may-tinh/2-kien-truc-may-tinh/1-bits-bytes.md'
-    - 'Cấu trúc dữ liệu & Giải thuật':
-      - 'khoa-hoc-may-tinh/3-ctdl-gt/bai-1.md'
-      - 'khoa-hoc-may-tinh/3-ctdl-gt/bai-2.md'
-      - 'khoa-hoc-may-tinh/3-ctdl-gt/bai-3.md'
-    - 'Toán':
-      - 'khoa-hoc-may-tinh/4-toan/1-bat-dau.md'
-    - 'Hệ điều hành':
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/c_programming.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/debugging.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s1.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s2.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s3.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s31.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s3a.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s3b.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s4.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s5.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s6.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s7.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s8.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s9.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s10.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s11.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s12.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s13.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s14.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s15.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s16.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s17.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s18.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s19.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s20.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s21.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s23.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s24.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s25a.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s25.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s26.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s27.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s28.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s29.md'
-      - 'khoa-hoc-may-tinh/5-he-dieu-hanh/s30.md'
-    - 'Mạng máy tính':
-      - 'khoa-hoc-may-tinh/7-mang-may-tinh/bai-1.md'
-      - 'khoa-hoc-may-tinh/7-mang-may-tinh/bai-2.md'
-    - 'Cơ sở dữ liệu':
-      - 'khoa-hoc-may-tinh/6-csdl/bai-1.md'
   - 'Tác phẩm':
     - 'Văn học': 'tac-pham/sach.md'
     - 'Anime': 'tac-pham/anime.md'
     - 'Manga': 'tac-pham/manga.md'
+    - 'Phim': 'tac-pham/phim.md'
   - 'Thông tin thêm':
     - 'Về cái trang này': 'about.md'
 

@@ -1,1 +1,0 @@
-# 1. Bits, Bytes và Integer
