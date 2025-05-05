@@ -49,6 +49,9 @@ nav:
     - 'Nhận thức, nhận ngủ': 'ban-than/blog/nhan-thuc-nhan-ngu.md'
     - 'Dùng voz khá thích': 'ban-than/blog/dung-voz-kha-thich.md'
     - 'Tôi viết sách': 'ban-than/blog/toi-viet-sach.md'
+  - 'Hướng dẫn':
+    - 'todotxt + GTD': 'huong-dan/todotxt.md'
+    - 'Cách đọc một cuốn sách': 'huong-dan/cach-doc-sach.md'
   - 'Học ngoại ngữ':
     - 'Tiếng Anh': 
       - 'Định hướng': 'tieng-anh/index.md'   
