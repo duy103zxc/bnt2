@@ -52,23 +52,15 @@ nav:
   - 'Hướng dẫn':
     - 'todotxt + GTD': 'huong-dan/todotxt.md'
     - 'Cách đọc một cuốn sách': 'huong-dan/cach-doc-sach.md'
-  - 'Học ngoại ngữ':
-    - 'Tiếng Anh': 
-      - 'Định hướng': 'tieng-anh/index.md'   
-      - 'Ngữ pháp': 'tieng-anh/ngu-phap.md'
-    - 'Tiếng Nhật':
-      - 'N6': 'tieng-nhat/n6.md'
-      - 'N5': 'tieng-nhat/n5.md'
-      - 'N4': 'tieng-nhat/n4.md'
-      - 'N3': 'tieng-nhat/n3.md'
-      - 'N2': 'tieng-nhat/n2.md'
-      - 'N1': 'tieng-nhat/n1.md'
+    - 'Hệ thống': 'huong-dan/he-thong.md'
+    - '8760 giờ': 'huong-dan/8760gio.md'
   - 'Tác phẩm':
     - 'Văn học': 'tac-pham/sach.md'
     - 'Anime': 'tac-pham/anime.md'
     - 'Manga': 'tac-pham/manga.md'
     - 'Phim': 'tac-pham/phim.md'
   - 'Thông tin thêm':
+    - 'Các dự án lớn': 'big-projects.md'
     - 'Về cái trang này': 'about.md'
 
 

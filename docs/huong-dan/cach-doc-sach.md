@@ -1,194 +1,202 @@
 # How to Read a Book, v5.0
 
-Nguồn [How to Read a Book, v5.0](https://pne.people.si.umich.edu/PDF/howtoread.pdf). Mà lười quá chưa dịch
+Nguồn [How to Read a Book, v5.0](https://pne.people.si.umich.edu/PDF/howtoread.pdf). Bản dịch dưới đây sử dụng AI và chưa được soát lại.
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The terms of this licence allow you to remix, tweak, and build upon this work non-commercially, as long as you credit me and license your new creations under the identical terms.
-Quasi-permanent URL: pne.people.si.umich.edu/PDF/howtoread.pdf
+### Làm sao để đọc sách (hoặc bất kỳ tài liệu nào) hiệu quả – khi mục đích là học, chứ không phải để giải trí?
 
-How can you learn the most from a book - or any other piece of writing - when you're reading for information, rather than for pleasure?
+Chúng ta thường có cảm giác “đã” khi đọc một cuốn sách từ đầu đến cuối, theo đúng thứ tự. Với tiểu thuyết thì điều đó là cần thiết, vì cốt lõi của truyện là giữ độc giả trong trạng thái hồi hộp. Khi đọc truyện, bạn để cho tác giả dẫn dắt mình qua từng chi tiết.
 
-It's satisfying to start at the beginning and read straight through to the end. Some books, such as novels, have to be read this way, since a basic principle of fiction is to hold the reader in suspense. Your whole purpose in reading fiction is to follow the writer's lead, allowing him or her to spin a story bit by bit.
+Nhưng phần lớn những gì bạn sẽ phải đọc trong suốt thời sinh viên – và có thể cả trong sự nghiệp sau này – lại không phải là tiểu thuyết. Mà là sách học, tài liệu, giáo trình, báo cáo nghiên cứu, bài viết học thuật v.v…
 
-But many of the books, articles, and other documents you'll read during your undergraduate and graduate years, and possibly during the rest of your professional life, won't be novels.
-Instead, they'll be non-fiction: textbooks, manuals, journal articles, histories, academic studies, and so on.
+Với những loại đó, mục tiêu của bạn là nắm bắt và ghi nhớ thông tin. Bạn cần biết “nó nói gì” càng nhanh và càng dễ hiểu càng tốt. Vì vậy – trừ khi bạn đang ở tù và chẳng còn việc gì để làm – đừng bao giờ đọc một cuốn sách phi hư cấu từ đầu đến cuối như thể đang đọc truyện.
 
-The purpose of reading things like this is to gain, and retain, information. Here, finding out what happens - as quickly and easily as possible - is your main goal. So unless you're stuck in prison with nothing else to do, NEVER read a non-fiction book or article from beginning to end.
+Thay vào đó, khi đọc để học, bạn phải biết nhảy cóc, đảo ngược, lướt nhanh hay tua chậm – miễn là giúp bạn phát hiện, hiểu và ghi nhớ nội dung cốt lõi. Làm vậy bạn sẽ tiết kiệm thời gian và thu hoạch được nhiều hơn.
 
-Instead, when you're reading for information, you should ALWAYS jump ahead, skip around, and use every available strategy to discover, then to understand, and finally to remember what the writer has to say. This is how you'll get the most out of a book in the smallest amount of time.
+Theo phương pháp này, bạn hoàn toàn có thể đọc hết một cuốn sách 300 trang chỉ trong 6 đến 8 tiếng. Tất nhiên, nếu có thêm thời gian thì bạn sẽ học sâu hơn. Nhưng thời gian thì luôn có giới hạn.
 
-Using the methods described here, you should be able to read a 300-page book in six to eight hours. Of course, the more time you spend, the more you'll learn and the better you'll understand the book. But your time is limited.
+Dưới đây là các chiến lược giúp bạn làm điều đó hiệu quả. Chúng không chỉ áp dụng cho sách, mà còn cho bất kỳ loại tài liệu phi hư cấu nào – từ bài báo đến website.
 
-Here are some strategies to help you do this effectively. Most of these can be applied not only to books, but also to any other kind of non-fiction reading, from articles to websites. Table 1, on the next page, summarizes the techniques, and the following pages explain them in more detail.
+### Mục tiêu luôn là: Đọc *hết* tài liệu
 
-### Read the whole thing!
+Khi đọc để học, điều quan trọng nhất là hiểu được ý chính, luận điểm, bằng chứng và kết luận. Bạn không cần (và thực ra cũng không thể) nhớ mọi chi tiết nhỏ. Cái bạn cần là ghi nhớ và ghi lại các điểm mấu chốt. Khi cần tra lại chi tiết, bạn sẽ biết tìm ở đâu.
 
-In reading to learn, your goal should always be to get all the way through the assignment. It's much more important to have a general grasp of the arguments or hypotheses, evidence, and conclusions than to understand every detail. In fact, no matter how carefully you read, you won't remember most of the details anyway.
+| Chiến lược | Lý do | 
+| ---| --- |
+| Đọc toàn bộ                        | Hiểu tổng thể quan trọng hơn hiểu từng câu. Phải nắm được cấu trúc tổng thể của lập luận.             |
+| Xác định trước thời gian đọc       | Khi biết mình có bao nhiêu thời gian, bạn sẽ phân bổ hợp lý và tránh lan man.                         |
+| Đọc có mục tiêu, có chiến lược     | Biết rõ “vì sao đọc” sẽ giúp bạn nhớ lâu hơn và thấy hứng thú hơn.                                    |
+| Đọc chủ động | Không nên thụ động đi theo tác giả. Hãy lướt qua, tìm kiếm, tra cứu, đánh dấu theo mục tiêu của mình. |
+| Đọc ba lượt                        | Lượt 1 để nắm tổng thể. Lượt 2 để đi vào chi tiết. Lượt 3 để ghi chú và tóm tắt.                      |
+| Tập trung vào phần nhiều thông tin | Mục lục, biểu đồ, tiêu đề, tranh ảnh… thường chứa nhiều thông tin hơn đoạn văn thông thường.          |
+| Ghi chú theo cách của bạn (PTML)   | Tự ghi chú, đánh dấu để dễ học và dễ tra cứu sau này.                                                 |
+| Tìm hiểu về tác giả và tổ chức     | Biết người viết là ai, họ ở đâu, giúp bạn đánh giá sâu hơn về nội dung.                               |
+| Biết bối cảnh học thuật            | Sách không tự xuất hiện. Nó phản ứng lại các quan điểm, trào lưu, và các học giả khác.                |
+| Cho não nghỉ giữa chừng            | Tạm ngừng giúp não xử lý và ghi nhớ sâu hơn.                                                          |
+| Lặp lại và sử dụng nhiều hình thức | Đọc xong rồi nói lại, vẽ sơ đồ, viết ghi chú… sẽ giúp nhớ lâu và hiểu kỹ hơn.                         |
 
-What you can do is remember and record the main points. And if you remember those, you know enough to find the material again if you ever do need to recall the details.
+### Luôn xác định trước thời gian đọc
 
-- Strategies and techniques: Rationale
-- Read the whole thing: Major arguments and evidence matter more than details. Grasping the structure of the whole is more important than reading every word.
-- Decide how much time you will spend: Real-world time is limited. If you know exactly how long you can actually spend on reading, you can plan how much time to devote to each item.
-- Have a purpose and a strategy: You'll enjoy reading more, and remember it better, if you know exactly why you're reading.
-- Read actively: Never rely on the author's structures alone. Move around in the text, following your own goals.
-- Read it three times: First time for overview and discovery. Second time for detail and understanding. Third time for note-taking in your own words.
-- Focus on parts with high information content: Tables of contents, pictures, charts, headings, and other elements contain more information than body text.
-- Use PTML (personal text markup language): Mark up your reading with your own notes. This helps you learn and also helps you find important passages later.
-- Know the author(s) and organizations: Authors are people with backgrounds and biases. They work in organizations that give them context and depth.
-- Know the intellectual context: Most academic writing is part of an ongoing intellectual conversation, with debates, key figures, and paradigmatic concepts.
-- Use your unconscious mind: Leave time between reading sessions for your mind to process the material.
-- Rehearse, and use multiple modes: Talking, visualizing, or writing about what you've read helps you remember it.
+Giả sử bạn chỉ có 6 tiếng để đọc, bạn sẽ dễ chia thời gian hơn và tránh bị cuốn theo từng chi tiết nhỏ. Khi bạn chấp nhận giới hạn thực tế của mình, bạn sẽ tập trung hơn và hiệu quả hơn. Việc tự đặt thời gian và tuân thủ nó là một kỹ năng sống quan trọng.
 
+Đừng bao giờ bắt đầu đọc mà không biết khi nào mình sẽ dừng.
 
-### Decide how much time you will spend
+### Đọc phải có mục tiêu và chiến lược
 
-If you know in advance that you have only six hours to read, it'll be easier to pace yourself. Remember, you're going to read the whole book (or the whole assignment).
+Trước khi mở sách, hãy hỏi: mình đọc cuốn này để làm gì? Mình sẽ đọc thế nào? Nếu chỉ đọc vì giáo viên bảo đọc, mà bản thân không có mục tiêu riêng, bạn sẽ học rất ít.
 
-In fact, the more directly and realistically you confront your limits, the more effective you will be at practically everything. Setting time limits and keeping to them (while accomplishing your goals) is one of the most important life skills you can learn. So never start to read without planning when to stop.
+Khi đọc, hãy tìm 4 điều đầu tiên:
 
-### Have a purpose and a strategy
-Before you begin, figure out why you are reading this particular book, and how you are going to read it. If you don't have reasons and strategies of your own - not just those of your teacher - you won't learn as much.
+* Ai là tác giả?
+* Luận điểm chính của sách là gì?
+* Tác giả dùng bằng chứng nào để thuyết phục?
+* Kết luận của sách là gì?
 
-As soon as you start to read, begin trying to find out four things:
+Sau đó hãy tự hỏi tiếp:
 
-- Who is the author?
-- What are the book's arguments?
-- What is the evidence that supports these?
-- What are the book's conclusions?
+* Những điểm yếu trong luận điểm hay bằng chứng là gì?
+* Mình có đồng ý với tác giả không?
+* Nếu phản biện, tác giả sẽ trả lời thế nào?
 
-Once you've got a grip on these, start trying to determine:
+Càng đọc, bạn càng nên quay lại các câu hỏi này. Khi kết thúc, bạn nên trả lời được hết. Bạn có thể thử tưởng tượng:
 
-- What are the weaknesses of these arguments, evidence, and conclusions?
-- What do you think about the arguments, evidence, and conclusions?
-- How does (or how could) the author respond to these weaknesses, and to your own criticisms?
+a) Mình đang viết bài điểm sách cho một tạp chí.
+b) Mình đang tranh luận trực tiếp với tác giả.
+c) Mình sắp thi và phải trả lời câu hỏi về cuốn này.
 
-Keep coming back to these questions as you read. By the time you finish, you should be able to answer them all. Three good ways to think about this are:
+### Đọc chủ động
 
-a) Imagine that you're going to review the book for a magazine.
-b) Imagine that you're having a conversation, or a formal debate, with the author.
-c) Imagine an examination on the book. What would the questions be, and how would you answer them?
+Đừng đợi tác giả giải thích xong xuôi rồi mới hiểu. Ngay từ đầu, hãy đặt giả thuyết (“cuốn này có vẻ muốn nói rằng…”), đặt câu hỏi (“Làm sao tác giả biết điều đó?”). Ghi chú ngắn các giả thuyết và câu hỏi, sau đó tìm cách xác minh hoặc trả lời khi đọc tiếp.
 
-### Read actively
-Don't wait for the author to hammer you over the head. Instead, from the very beginning, constantly generate hypotheses ("the main point of the book is that...") and questions ("How does the author know that...?") about the book.
+### Tìm hiểu về tác giả và tổ chức đứng sau
 
-Making brief notes about these can help. As you read, try to confirm your hypotheses and answer your questions. Once you finish, review these.
+Biết ai viết cuốn sách giúp bạn đánh giá chất lượng và hiểu sâu hơn nội dung.
 
-### Know the author(s) and organizations
-Knowing who wrote a book helps you judge its quality and understand its full significance.
+Tác giả là con người – có nền giáo dục, trải nghiệm, định kiến, điểm mạnh, điểm yếu… Họ cũng làm việc cho các tổ chức: trường đại học, công ty, chính phủ, báo chí... Mỗi tổ chức có giá trị, áp lực và tiêu chuẩn riêng – ảnh hưởng đến cả nội dung và cách trình bày.
 
-Authors are people. Like anyone else, their views are shaped by their educations, their jobs, their early lives, and the rest of their experiences. Also like anyone else, they have prejudices, blind spots, desperate moments, failings, and desires - as well as insights, brilliance, objectivity, and successes. Notice all of it.
+Ví dụ: giáo sư đại học thường viết để được xét duyệt học hàm, họ phải đảm bảo chất lượng học thuật, đôi khi văn phong rất khô khan. Trong khi đó, nhà báo lại viết để hấp dẫn người đọc và chạy deadline, nên thường dễ đọc nhưng nguồn có thể không vững chắc.
 
-Most authors belong to organizations: universities, corporations, governments, newspapers, magazines. These organizations each have cultures, hierarchies of power, and social norms. Organizations shape both how a work is written and the content of what it says. For example, university professors are expected to write books and/or journal articles in order to get tenure. These pieces of writing must meet certain standards of quality, defined chiefly by other professors; for them, content usually matters more than good writing. Journalists, by contrast, are often driven by deadlines and the need to please large audiences. Because of this, their standards of quality are often directed more toward clear and engaging writing than toward unimpeachable content; their sources are usually oral rather than written.
+Hãy hỏi: Tác giả là ai? Học giả, nhà báo, chuyên gia? Ai tài trợ cho công trình? Ai viết lời giới thiệu? Viết cho đối tượng nào? Viết vào thời điểm nào? Tại sao viết?
 
-The more you know about the author and his/her organization and/or discipline, the better you will be able to evaluate what you read. Try to answer questions like these: What shaped the author's intellectual perspective? What is his or her profession? Is the author an academic, a journalist, a professional (doctor, lawyer, industrial scientist, etc.)? Expertise?
+Nhiều câu trả lời bạn có thể tìm thấy trong phần cảm ơn, tiểu sử tác giả, tài liệu tham khảo.
 
-Other books and articles? Intellectual network(s)? Gender? Race? Class? Political affiliation? Why did the author decide to write this book? When? For what audience(s)? Who paid for the research work (private foundations, government grant agencies, industrial sponsors, etc.)? Who wrote "jacket blurbs" in support of the book?
+### Biết bối cảnh học thuật
 
-You can often (though not always) learn about much of this from the acknowledgments, the bibliography, and the author's biographical statement.
+Biết tác giả là ai sẽ giúp bạn hiểu bối cảnh học thuật của cuốn sách – tức là “cuộc trò chuyện trí tuệ” mà cuốn sách đang tham gia. Nó đang đồng tình với ai? Phản bác ai? Dựa trên nền tảng học thuật nào?
 
-### Know the intellectual context
+Một cuốn sách học thuật thường là lời đáp lại những gì người khác từng viết. Hãy chú ý khi tác giả nói kiểu: “Thông thường người ta tin rằng X, nhưng tôi sẽ chứng minh rằng Y.” (Vậy X có thực sự là quan điểm phổ biến không? Ai tin X?) Hoặc: “Tiến sĩ Jane nói rằng X, nhưng tôi thì nghĩ Y.” (Jane là ai? Mọi người tin Jane vì lý do gì? Lập luận của tác giả có thật sự thuyết phục?). Cũng quan trọng không kém là những người mà tác giả trích dẫn để củng cố quan điểm của mình.
 
-Knowing the author and his/her organization also helps you understand the book's intellectual context. This includes the academic discipline(s) from which it draws, schools of thought within that discipline, and others who agree with or oppose the author's viewpoint.
+### Đọc một cuốn sách ba lần
 
-A book is almost always partly a response to other writers, so you'll understand a book much better if you can figure out what, and whom, it is answering. Pay special attention to points where the author tells you directly that s/he is disagreeing with others: "Conventional wisdom holds that x, but I argue instead that y." (Is x really conventional wisdom? Among what group of people?) "Famous Jane Scholar says that x, but I will show that y." (Who's Famous Jane, and why do other people believe her? How plausible are x and y? Is the author straining to find something original to say, or has s/he genuinely convinced you that Famous Jane is wrong?) Equally important are the people and writings the author cites in support of his/her arguments.
+Đây là kỹ thuật then chốt. Bạn sẽ hiểu và tận dụng tối đa một cuốn sách nếu bạn đọc nó ba lần — mỗi lần với một mục đích khác nhau.
 
-### Read it three times
+**a) Lần 1: Khảo sát – để khám phá (5–10% tổng thời gian)**
+Lần đọc đầu tiên rất nhanh, bạn chỉ lướt để nắm cái nhìn tổng thể: tác giả đang nói gì, viết theo kiểu gì, và muốn đi đến đâu.
 
-This is the key technique. You'll get the most out of the book if you read it three times - each time for a different purpose.
+Bạn không cần đọc kỹ, chỉ đánh dấu lại những tiêu đề, đoạn văn, hay cụm từ có vẻ quan trọng để quay lại sau. Cũng nên ghi ra vài câu hỏi để làm rõ khi đọc lần hai, ví dụ: “Thuật ngữ X nghĩa là gì?”, “Sao không nhắc đến chủ đề Y?”, hay “Z là ai?”
 
-a) Overview: discovery (5-10 percent of total time)
+**b) Lần 2: Đọc kỹ – để hiểu (70–80% tổng thời gian)**
+Lần này bạn đọc thật sự nghiêm túc để nắm rõ các luận điểm chính và cách tác giả chứng minh chúng.
 
-Here you read very quickly, following the principle (described below) of reading for high information content. Your goal is to discover the book. You want a quick-and-dirty, unsophisticated, general picture of the writer's purpose, methods, and conclusions.
+Tập trung vào phần đầu và cuối của chương, cũng như các đoạn bạn đã đánh dấu ở lần một. Cố gắng trả lời các câu hỏi bạn đã tự đặt ra.
 
-Mark - without reading carefully - headings, passages, and phrases that seem important (you'll read these more closely the second time around.) Generate questions to answer on your second reading: what does term or phrase X mean? Why doesn't the author cover subject Y? Who is Z?
+**c) Lần 3: Ghi chú – để nhớ và hệ thống lại (10–20% tổng thời gian)**
+Mục tiêu lần đọc cuối cùng là ghi nhớ những điều quan trọng. Ghi chú ngắn gọn lại các lập luận, bằng chứng, kết luận — bằng *chính lời của bạn*. Việc copy nguyên văn ít giúp bạn hiểu bằng việc tự tóm tắt ngắn gọn.
 
-b) Detail: understanding (70-80 percent of total time)
+Một chỉ tiêu tốt là: cứ 100 trang sách thì nên có khoảng 1–3 trang ghi chú. Nhiều quá cũng không giúp ích gì thêm. Nhớ đánh dấu số trang để dễ tra cứu lại. Bạn có thể ghi tay, gõ máy, hay kẹp giấy vào sách đều được — miễn là dễ tìm lại sau này.
 
-Within your time constraints, read the book a second time. This time, your goal is understanding: to get a careful, critical, thoughtful grasp of the key points, and to evaluate the author's evidence for his/her points.
+Một cách rất hay (tôi thường dùng) là nhập luôn ghi chú vào phần "ghi chú" của phần mềm quản lý trích dẫn như Endnote, Zotero hay Bookends.
 
-Focus especially on the beginnings and ends of chapters and major sections. Pay special attention to the passages you marked on the first round. Try to answer any questions you generated on the first round.
 
-c) Notes: recall and note-taking (10-20 percent of total time)
+### Thời gian và nhịp đọc
 
-The purpose of your third and final reading is to commit to memory the most important elements of the book. This time, make brief notes about the arguments, evidence, and conclusions. This is not at all the same thing as text markup; your goal here is to process the material by translating into your own mental framework, which means using your own words as much as possible. Cutting and pasting segments of text from the book will not do as much for you as summarizing very briefly in your own words. Include the bare minimum of detail to let you remember and re-locate the most important things. 1-3 pages of notes per 100 pages of text is a good goal to shoot for; more than that is often too much. Use some system that lets you easily find places in the book (e.g., start each note with a page number.)
+Con người không thể tập trung lâu. Bạn sẽ hiểu sâu hơn nếu đọc ba lần mỗi lần 1 tiếng, hơn là cố ngồi liền 3 tiếng liên tục. Nhưng nhớ: để có được 1 tiếng đọc hiệu quả, bạn cần ít nhất 1 tiếng 15 phút — vì đầu buổi sẽ bị phân tâm một chút, và cuối buổi cũng cần thời gian để “thoát” ra chuẩn bị làm việc khác.
 
-Notebooks, typed pages, or handwritten sheets tucked into the book can all work. However, notes will be useless unless you can easily find them again. A very good system - the one I use - is to type notes directly into bilbiography entries using citation manager software such as Endnote, Zotero, or Bookends. See below for more on citation managers.
+Lập kế hoạch cụ thể. Ví dụ, với một cuốn 250 trang, tôi có thể dành 15 phút để lướt sơ, 4 tiếng đọc kỹ, và 20–30 phút ghi chú — tất nhiên điều chỉnh tuỳ độ khó, mức độ quan trọng và quỹ thời gian.
 
-### On time and timing
 
-First, because human attention fades after about an hour, you'll get more out of three one- hour readings than you could ever get out of one three-hour reading. But be careful: to get one full hour of effective reading, you need to set aside at least one hour and fifteen minutes, since distraction is inevitable at the beginning (settling in) and end (re-arousal for your next task) of any reading period.
+### Tập trung vào phần “đậm đặc thông tin”
 
-Second, make a realistic plan that includes how much time you will devote to each of the three stages. For a 250-page book, I might spend 15 minutes on overview, 4 hours on detailed reading, and 20-30 minutes making notes - but I'd adjust these periods up or down depending on how difficult the text is, how important it is to me, and how much time I have.
+Sách phi hư cấu thường viết theo mô hình “chiếc đồng hồ cát”: mở đầu và kết thúc chứa thông tin khái quát, còn phần giữa là chi tiết. Mô hình này lặp lại ở nhiều cấp độ:
 
-### Focus on the parts with high information content
-Non-fiction books very often have an "hourglass" structure that is repeated at several levels of organization. More general (broader) information is typically presented at the beginnings and ends of:
+* Toàn bộ sách (mở đầu, kết luận)
+* Mỗi chương
+* Mỗi phần trong chương
+* Mỗi đoạn văn
 
-- the book or article as a whole (abstract, introduction, conclusion)
-- each chapter
-- each section within a chapter
-- each paragraph
+Bạn nên tập trung lần lượt vào:
 
-More specific (narrower) information (supporting evidence, details, etc.) then appears in the middle of the hourglass.
+* Bìa trước, bìa sau, mặt trong bìa
+* Mục lục
+* Mục lục tra cứu (index)
+* Danh mục tài liệu tham khảo
+* Lời mở đầu, giới thiệu, tóm tắt
+* Kết luận
+* Hình vẽ, bảng biểu
+* Mở đầu và kết thúc chương
+* Tiêu đề các mục nhỏ
+* Chữ in đậm, in nghiêng, danh sách gạch đầu dòng
 
-You can make the hourglass structure of writing do a lot of work for you. Focus on the following elements, in more or less the following order:
 
-- Front and back covers, inner jacket flaps
-- Table of contents
-- Index: scan this to see which are the most important terms
-- Bibliography: tells you about the book's sources and intellectual context
-- Preface and/or Introduction and/or Abstract
-- Conclusion
-- Pictures, graphs, tables, figures: images contain more information than text
-- Chapter introductions and conclusions
-- Section headings
-- Special type or formatting: boldface, italics, numbered items, lists
+### Dùng PTML – “Ngôn ngữ đánh dấu cá nhân”
 
-### Use PTML (personal text markup language)
+Luôn luôn luôn đánh dấu khi đọc. Đừng chờ đến khi hiểu rõ rồi mới đánh dấu — hãy làm ngay từ lần đầu tiên. Những đánh dấu ban đầu sẽ giúp bạn tiết kiệm rất nhiều công sức khi đọc lại.
 
-Always, always, always mark up your reading. This is a critical part of active reading. Do this from the very beginning - even on your first, overview reading. Why? Because when you come back to the book later, your marks reduce the amount you have to look at and help you see what's most significant.
+Đừng đánh dấu quá nhiều — sẽ phản tác dụng. Nên chỉ chọn 2–3 điểm ngắn gọn mỗi trang. Chỉ gạch dưới vài từ/cụm từ đủ để nhắc bạn nhớ đoạn nói gì. Viết chú thích bên lề bằng chính lời của bạn, mô tả đoạn văn đang nói gì.
 
-Don't mark too much. This defeats the purpose of markup; when you consult your markup later, heavy markup will force you to re-read unimportant information. As a rule, you should average no more than two or three short marks per page. Rather than underline whole sentences, underline words or short phrases that capture what you most need to remember. The point of this is to distill, reduce, eliminate the unnecessary. Write words and phrases in the margins that tell you what paragraphs or sections are about. Use your own words.
 
-### Page vs. screen
+### Giấy vs. Màn hình
 
-Printed material has far higher resolution (~600 dpi) than even the best computer screens (~100 dpi); see the illustration of 300 vs. 600 dpi, below. For this reason you will read more accurately, and with less fatigue, if you stick with the paper version. Still, we inevitably read much more screen-based material now.
+Bản in có độ phân giải cao gấp nhiều lần màn hình máy tính (600 dpi so với 100 dpi). Do đó, đọc sách giấy sẽ chính xác hơn và đỡ mỏi mắt hơn.
 
-Markup on the screen: It remains difficult to mark up screen-based materials effectively. The extra steps involved are distracting, as is the temptation to check email or websurf. Also, with screen-based markup you often have to click on a note in order to read it, which means you're less likely to do it later. It remains far easier to mark up a printed copy!
+Việc đánh dấu trên màn hình vẫn còn bất tiện: thao tác nhiều bước, dễ bị xao nhãng vì email hay mạng xã hội, và hay quên mất việc xem lại ghi chú vì phải click mới hiện ra.
 
-However, if you're disciplined, recent versions of Acrobat, Apple Preview, and third-party PDF viewers such as PDFpen, iAnnotate, and Goodreader allow you to add comments, highlighting, and so on to PDFs. Voice recognition can make this a lot easier. Today, I routinely read and annotate PDFs on an iPad, using voice recognition when I want to make a note. Some of these readers, as well as ebook readers such as Kindle, allow you to export only your highlights and notes. This is a great way to make yourself a condensed version of a document. Paste it into the notes field of your citation manager and it'll always be at your fingertips. Hunt around on the web for ways to do this kind of thing on an industrial scale (especially with Kindle books).
+Tuy vậy, nếu bạn đủ kỷ luật, các phần mềm như Acrobat, Apple Preview, PDFpen, iAnnotate, Goodreader hay Kindle đều có chức năng đánh dấu, highlight và ghi chú. Một số còn cho phép xuất riêng phần highlight để bạn dễ lưu trữ và tra cứu. Bạn có thể dán vào phần “ghi chú” của trình quản lý tài liệu để sau này tra lại nhanh chóng.
 
-When taking notes about something you're reading (as opposed to marking up the text), you'll be tempted to cut and paste the original text in lieu of making your own notes in your own words. Cut-and-paste can sometimes work well, especially for things you might want to quote later. However: in general it defeats the two main purposes of note-taking: (a) learning and remembering (by rephrasing in your own terms), and (b) condensing into a very short form. The same is true of links: though useful for keeping track of sources, keeping a URL will not by itself help you remember or understand what's there, even though it may feel that way.
+Khi ghi chú (khác với đánh dấu), bạn rất dễ bị cám dỗ "copy-paste" nguyên văn. Việc này có thể hữu ích nếu bạn muốn trích dẫn sau này, nhưng thường phản tác dụng nếu mục tiêu là hiểu và nhớ, vì bạn không tự xử lý lại thông tin.
 
-### Use a citation manager
 
-It's hard to overemphasize the huge advantages of citation manager software such as Endnote, Bookends, Zotero, Mendeley, CiteULike, etc. They let you keep track of your growing library, easily enter and format citations in your word processor (saving you the incredible irritation of doing it yourself). Most of them can pull in citations directly from the web, record web links, find DOI's, and so on. Some have their own web search tools built in. Some, such as Bookends (Mac only), will automatically rename documents with Author- Date-Title, a huge help with the extremely annoying problem of uninformative filenames.
+### Dùng phần mềm quản lý tài liệu
 
-None of these packages are perfect. All have both advantages and disadvantages, and the more sophisticated ones have steep learning curves. Look for one that can handle all major document formats, including books, journal articles, newspaper articles, online sources, interviews, and so on. Be wary of managers that only handle PDFs, since so many other formats are still important.
+Không thể nhấn mạnh đủ tầm quan trọng của các công cụ như Endnote, Zotero, Mendeley, Bookends... Chúng giúp bạn lưu trữ, tìm kiếm và trích dẫn tài liệu rất nhanh chóng — không còn mất thời gian “tự tay format” nữa.
 
-If you use the notes field of your citation manager in a disciplined way, your notes will always be easy to find. When your library starts reaching into the thousands of items, this is a godsend.
+Một số công cụ còn có thể:
 
+* Tự động lấy thông tin trích dẫn từ web
+* Gắn link nguồn, tìm mã DOI
+* Tìm kiếm trực tiếp từ giao diện phần mềm
+* Đổi tên file tài liệu theo kiểu “Tác giả – Năm – Tên”
 
-### Use your unconscious mind
-An awful lot of thinking and mental processing goes on when you're not aware of it. Just as with writing or any other creative thought process, full understanding of a book takes time to develop.
+Tuy mỗi phần mềm có điểm mạnh yếu khác nhau, bạn nên chọn loại hỗ trợ đa dạng định dạng tài liệu (sách, bài báo, website, phỏng vấn, v.v.), không chỉ PDF.
 
-Like the body, the mind suffers from fatigue when doing just one thing for many hours. Your ability to comprehend and retain what you read drops off dramatically after an hour or so. Therefore, you should read a book in several short sessions of one to two hours apiece, rather than one long marathon.
+Nếu bạn dùng phần “ghi chú” trong phần mềm một cách có tổ chức, thì dù thư viện của bạn có hàng nghìn đầu sách, bạn vẫn dễ dàng tra cứu lại.
 
-In between, your unconscious mind will process some of what you've read. When you come back for the next session, start by asking yourself what you remember from your previous reading, what you think of it so far, and what you still need to learn.
 
-### Rehearse, and use multiple modes
-Reading is exactly like martial arts, baseball, or cooking in the sense that learning and memory depend crucially on rehearsal.
+### Tận dụng tiềm thức
 
-So - after you've read the book, rehearse what you've learned. Quiz yourself on its contents. Argue with the author. Imagine how you would defend the author's position in your own writing.
+Rất nhiều quá trình xử lý thông tin diễn ra khi bạn không để ý. Giống như viết lách hay bất kỳ công việc sáng tạo nào, việc hiểu một cuốn sách cần thời gian.
 
-Reading, writing, speaking, listening, and visualizing all engage different parts of the brain. For this reason, the best forms of rehearsal use multiple modes of thinking and action.
-Don't just contemplate privately. Instead, talk about the book with others. Bring it up in classes. Write about it. Visualize anything that can be visualized about its contents. All of this helps fix your memory and integrate your new learning into the rest of your knowledge.
+Càng đọc lâu liền mạch, bạn càng nhanh mệt và dễ quên. Do đó, nên chia thành nhiều buổi đọc ngắn (1–2 giờ) thay vì đọc một lèo cả ngày.
 
-Hang in there!
+Giữa các buổi đọc, bộ não sẽ “ngầm” xử lý nội dung. Khi quay lại, hãy tự hỏi: “Mình còn nhớ gì?”, “Ấn tượng điều gì?”, “Còn điều gì chưa hiểu?”
 
-When I give presentations on these ideas, students often tell me a few weeks later that they "tried it a few times and just couldn't do it," so they stopped.
 
-You will have to practice these techniques for a considerable length of time - at least a few months - before they come to seem natural, and they will never be easier than the comfortable, passive way we've all been reading for many years.
+### Ôn luyện và đa dạng cách tiếp cận
 
-Hang in there. The rewards of these techniques are great, or so say the hundreds of students who've told me so years later. Learning to read like this can be a critical key to a successful career as a student, scholar, or professional in almost any field.
+Đọc sách cũng giống như võ thuật, chơi bóng, hay nấu ăn — muốn nhớ thì phải luyện. Sau khi đọc xong, bạn cần “ôn tập”: tự kiểm tra, tranh luận với tác giả, tưởng tượng mình phải bảo vệ lập luận ấy ra sao.
+
+Các hình thức tiếp nhận khác nhau (đọc, viết, nói, nghe, hình dung) sẽ kích hoạt các vùng não khác nhau — nên cách học tốt nhất là phối hợp nhiều cách. Đừng chỉ “ngẫm nghĩ trong đầu”, hãy:
+
+* Trò chuyện với người khác về sách
+* Đem sách ra thảo luận trong lớp
+* Viết lại ý chính
+* Vẽ sơ đồ, hình ảnh hóa nội dung
+
+Tất cả đều giúp bạn ghi nhớ và kết nối kiến thức mới với nền tảng cũ.
+
+
+### Kiên nhẫn rèn luyện
+
+Nhiều sinh viên nói với tôi rằng: “Em đã thử vài lần nhưng không theo nổi nên bỏ luôn.” Điều đó là bình thường. Những kỹ thuật này cần luyện trong thời gian dài — ít nhất vài tháng — thì mới thành phản xạ tự nhiên được.
+
 
 
